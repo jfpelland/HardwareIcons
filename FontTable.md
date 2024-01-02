@@ -1,169 +1,169 @@
 ## Font Table
 
-A list of all icons included as well as their Unicode code points.
+A list of all icons included as well as the Unicode code point assigned to them in the font files included in the releases.
 
-### CPU
+### CPU (./icons/cpu/)
 
-| `0xf000` | `0xf001` | `0xf002` | `0xf003` | `0xf004` | `0xf005` | `0xf006` | `0xf007` |
+| `U+F000` | `U+F001` | `U+F002` | `U+F003` | `U+F004` | `U+F005` | `U+F006` | `U+F007` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/cpu/CPU.svg" width="64"> | <img src="./icons/cpu/CPUTemp.svg" width="64"> | <img src="./icons/cpu/CPUHotspot.svg" width="64"> | <img src="./icons/cpu/CPUAmps.svg" width="64"> | <img src="./icons/cpu/CPUVolts.svg" width="64"> | <img src="./icons/cpu/CPUPower.svg" width="64"> | <img src="./icons/cpu/CPUFan.svg" width="64"> | <img src="./icons/cpu/CPUWaterPump.svg" width="64"> |
+| <img src="./icons/cpu/CPU.svg" title="CPU.svg" alt="CPU.svg" width="64"/> | <img src="./icons/cpu/CPUTemp.svg" title="CPUTemp.svg" alt="CPUTemp.svg" width="64"/> | <img src="./icons/cpu/CPUHotspot.svg" title="CPUHotspot.svg" alt="CPUHotspot.svg" width="64"/> | <img src="./icons/cpu/CPUAmps.svg" title="CPUAmps.svg" alt="CPUAmps.svg" width="64"/> | <img src="./icons/cpu/CPUVolts.svg" title="CPUVolts.svg" alt="CPUVolts.svg" width="64"/> | <img src="./icons/cpu/CPUPower.svg" title="CPUPower.svg" alt="CPUPower.svg" width="64"/> | <img src="./icons/cpu/CPUFan.svg" title="CPUFan.svg" alt="CPUFan.svg" width="64"/> | <img src="./icons/cpu/CPUWaterPump.svg" title="CPUWaterPump.svg" alt="CPUWaterPump.svg" width="64"/> |
 
-| `0xf008` | `0xf009` | `0xf00a` |
+| `U+F008` | `U+F009` | `U+F00A` |
 | :---: | :---: | :---: |
-| <img src="./icons/cpu/CPULiquid.svg" width="64"> | <img src="./icons/cpu/CPULiquidAlt.svg" width="64"> | <img src="./icons/cpu/CPUFlow.svg" width="64"> |
+| <img src="./icons/cpu/CPULiquid.svg" title="CPULiquid.svg" alt="CPULiquid.svg" width="64"/> | <img src="./icons/cpu/CPULiquidAlt.svg" title="CPULiquidAlt.svg" alt="CPULiquidAlt.svg" width="64"/> | <img src="./icons/cpu/CPUFlow.svg" title="CPUFlow.svg" alt="CPUFlow.svg" width="64"/> |
 
-### CPU Cores
+### CPU Cores (./icons/cpu/cores/)
 
-| `0xf100` | `0xf101` | `0xf102` | `0xf103` | `0xf104` | `0xf105` | `0xf106` | `0xf107` |
+| `U+F100` | `U+F101` | `U+F102` | `U+F103` | `U+F104` | `U+F105` | `U+F106` | `U+F107` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/cpu/cores/CPU00.svg" width="64"> | <img src="./icons/cpu/cores/CPU01.svg" width="64"> | <img src="./icons/cpu/cores/CPU02.svg" width="64"> | <img src="./icons/cpu/cores/CPU03.svg" width="64"> | <img src="./icons/cpu/cores/CPU04.svg" width="64"> | <img src="./icons/cpu/cores/CPU05.svg" width="64"> | <img src="./icons/cpu/cores/CPU06.svg" width="64"> | <img src="./icons/cpu/cores/CPU07.svg" width="64"> |
+| <img src="./icons/cpu/cores/CPU00.svg" title="CPU00.svg" alt="CPU00.svg" width="64"/> | <img src="./icons/cpu/cores/CPU01.svg" title="CPU01.svg" alt="CPU01.svg" width="64"/> | <img src="./icons/cpu/cores/CPU02.svg" title="CPU02.svg" alt="CPU02.svg" width="64"/> | <img src="./icons/cpu/cores/CPU03.svg" title="CPU03.svg" alt="CPU03.svg" width="64"/> | <img src="./icons/cpu/cores/CPU04.svg" title="CPU04.svg" alt="CPU04.svg" width="64"/> | <img src="./icons/cpu/cores/CPU05.svg" title="CPU05.svg" alt="CPU05.svg" width="64"/> | <img src="./icons/cpu/cores/CPU06.svg" title="CPU06.svg" alt="CPU06.svg" width="64"/> | <img src="./icons/cpu/cores/CPU07.svg" title="CPU07.svg" alt="CPU07.svg" width="64"/> |
 
-| `0xf108` | `0xf109` | `0xf10a` | `0xf10b` | `0xf10c` | `0xf10d` | `0xf10e` | `0xf10f` |
+| `U+F108` | `U+F109` | `U+F10A` | `U+F10B` | `U+F10C` | `U+F10D` | `U+F10E` | `U+F10F` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/cpu/cores/CPU08.svg" width="64"> | <img src="./icons/cpu/cores/CPU09.svg" width="64"> | <img src="./icons/cpu/cores/CPU10.svg" width="64"> | <img src="./icons/cpu/cores/CPU11.svg" width="64"> | <img src="./icons/cpu/cores/CPU12.svg" width="64"> | <img src="./icons/cpu/cores/CPU13.svg" width="64"> | <img src="./icons/cpu/cores/CPU14.svg" width="64"> | <img src="./icons/cpu/cores/CPU15.svg" width="64"> |
+| <img src="./icons/cpu/cores/CPU08.svg" title="CPU08.svg" alt="CPU08.svg" width="64"/> | <img src="./icons/cpu/cores/CPU09.svg" title="CPU09.svg" alt="CPU09.svg" width="64"/> | <img src="./icons/cpu/cores/CPU10.svg" title="CPU10.svg" alt="CPU10.svg" width="64"/> | <img src="./icons/cpu/cores/CPU11.svg" title="CPU11.svg" alt="CPU11.svg" width="64"/> | <img src="./icons/cpu/cores/CPU12.svg" title="CPU12.svg" alt="CPU12.svg" width="64"/> | <img src="./icons/cpu/cores/CPU13.svg" title="CPU13.svg" alt="CPU13.svg" width="64"/> | <img src="./icons/cpu/cores/CPU14.svg" title="CPU14.svg" alt="CPU14.svg" width="64"/> | <img src="./icons/cpu/cores/CPU15.svg" title="CPU15.svg" alt="CPU15.svg" width="64"/> |
 
-| `0xf110` | `0xf111` | `0xf112` | `0xf113` | `0xf114` | `0xf115` | `0xf116` | `0xf117` |
+| `U+F110` | `U+F111` | `U+F112` | `U+F113` | `U+F114` | `U+F115` | `U+F116` | `U+F117` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/cpu/cores/CPU16.svg" width="64"> | <img src="./icons/cpu/cores/CPU17.svg" width="64"> | <img src="./icons/cpu/cores/CPU18.svg" width="64"> | <img src="./icons/cpu/cores/CPU19.svg" width="64"> | <img src="./icons/cpu/cores/CPU20.svg" width="64"> | <img src="./icons/cpu/cores/CPU21.svg" width="64"> | <img src="./icons/cpu/cores/CPU22.svg" width="64"> | <img src="./icons/cpu/cores/CPU23.svg" width="64"> |
+| <img src="./icons/cpu/cores/CPU16.svg" title="CPU16.svg" alt="CPU16.svg" width="64"/> | <img src="./icons/cpu/cores/CPU17.svg" title="CPU17.svg" alt="CPU17.svg" width="64"/> | <img src="./icons/cpu/cores/CPU18.svg" title="CPU18.svg" alt="CPU18.svg" width="64"/> | <img src="./icons/cpu/cores/CPU19.svg" title="CPU19.svg" alt="CPU19.svg" width="64"/> | <img src="./icons/cpu/cores/CPU20.svg" title="CPU20.svg" alt="CPU20.svg" width="64"/> | <img src="./icons/cpu/cores/CPU21.svg" title="CPU21.svg" alt="CPU21.svg" width="64"/> | <img src="./icons/cpu/cores/CPU22.svg" title="CPU22.svg" alt="CPU22.svg" width="64"/> | <img src="./icons/cpu/cores/CPU23.svg" title="CPU23.svg" alt="CPU23.svg" width="64"/> |
 
-| `0xf118` | `0xf119` | `0xf11a` | `0xf11b` | `0xf11c` | `0xf11d` | `0xf11e` | `0xf11f` |
+| `U+F118` | `U+F119` | `U+F11A` | `U+F11B` | `U+F11C` | `U+F11D` | `U+F11E` | `U+F11F` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/cpu/cores/CPU24.svg" width="64"> | <img src="./icons/cpu/cores/CPU25.svg" width="64"> | <img src="./icons/cpu/cores/CPU26.svg" width="64"> | <img src="./icons/cpu/cores/CPU27.svg" width="64"> | <img src="./icons/cpu/cores/CPU28.svg" width="64"> | <img src="./icons/cpu/cores/CPU29.svg" width="64"> | <img src="./icons/cpu/cores/CPU30.svg" width="64"> | <img src="./icons/cpu/cores/CPU31.svg" width="64"> |
+| <img src="./icons/cpu/cores/CPU24.svg" title="CPU24.svg" alt="CPU24.svg" width="64"/> | <img src="./icons/cpu/cores/CPU25.svg" title="CPU25.svg" alt="CPU25.svg" width="64"/> | <img src="./icons/cpu/cores/CPU26.svg" title="CPU26.svg" alt="CPU26.svg" width="64"/> | <img src="./icons/cpu/cores/CPU27.svg" title="CPU27.svg" alt="CPU27.svg" width="64"/> | <img src="./icons/cpu/cores/CPU28.svg" title="CPU28.svg" alt="CPU28.svg" width="64"/> | <img src="./icons/cpu/cores/CPU29.svg" title="CPU29.svg" alt="CPU29.svg" width="64"/> | <img src="./icons/cpu/cores/CPU30.svg" title="CPU30.svg" alt="CPU30.svg" width="64"/> | <img src="./icons/cpu/cores/CPU31.svg" title="CPU31.svg" alt="CPU31.svg" width="64"/> |
 
-| `0xf120` |
+| `U+F120` |
 | :---: |
-| <img src="./icons/cpu/cores/CPU32.svg" width="64"> |
+| <img src="./icons/cpu/cores/CPU32.svg" title="CPU32.svg" alt="CPU32.svg" width="64"/> |
 
-### GPU
+### GPU (./icons/gpu/)
 
-| `0xf010` | `0xf011` | `0xf012` | `0xf013` | `0xf014` | `0xf015` | `0xf016` | `0xf017` |
+| `U+F010` | `U+F011` | `U+F012` | `U+F013` | `U+F014` | `U+F015` | `U+F016` | `U+F017` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/gpu/GPU.svg" width="64"> | <img src="./icons/gpu/GPUCore.svg" width="64"> | <img src="./icons/gpu/GPUMem.svg" width="64"> | <img src="./icons/gpu/GPUTemp.svg" width="64"> | <img src="./icons/gpu/GPUHotspot.svg" width="64"> | <img src="./icons/gpu/GPUAmps.svg" width="64"> | <img src="./icons/gpu/GPUVolts.svg" width="64"> | <img src="./icons/gpu/GPUPower.svg" width="64"> |
+| <img src="./icons/gpu/GPU.svg" title="GPU.svg" alt="GPU.svg" width="64"/> | <img src="./icons/gpu/GPUCore.svg" title="GPUCore.svg" alt="GPUCore.svg" width="64"/> | <img src="./icons/gpu/GPUMem.svg" title="GPUMem.svg" alt="GPUMem.svg" width="64"/> | <img src="./icons/gpu/GPUTemp.svg" title="GPUTemp.svg" alt="GPUTemp.svg" width="64"/> | <img src="./icons/gpu/GPUHotspot.svg" title="GPUHotspot.svg" alt="GPUHotspot.svg" width="64"/> | <img src="./icons/gpu/GPUAmps.svg" title="GPUAmps.svg" alt="GPUAmps.svg" width="64"/> | <img src="./icons/gpu/GPUVolts.svg" title="GPUVolts.svg" alt="GPUVolts.svg" width="64"/> | <img src="./icons/gpu/GPUPower.svg" title="GPUPower.svg" alt="GPUPower.svg" width="64"/> |
 
-| `0xf018` | `0xf019` | `0xf01a` | `0xf01b` | `0xf01c` |
+| `U+F018` | `U+F019` | `U+F01A` | `U+F01B` | `U+F01C` |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/gpu/GPUFan.svg" width="64"> | <img src="./icons/gpu/GPUWaterPump.svg" width="64"> | <img src="./icons/gpu/GPULiquid.svg" width="64"> | <img src="./icons/gpu/GPULiquidAlt.svg" width="64"> | <img src="./icons/gpu/GPUFlow.svg" width="64"> |
+| <img src="./icons/gpu/GPUFan.svg" title="GPUFan.svg" alt="GPUFan.svg" width="64"/> | <img src="./icons/gpu/GPUWaterPump.svg" title="GPUWaterPump.svg" alt="GPUWaterPump.svg" width="64"/> | <img src="./icons/gpu/GPULiquid.svg" title="GPULiquid.svg" alt="GPULiquid.svg" width="64"/> | <img src="./icons/gpu/GPULiquidAlt.svg" title="GPULiquidAlt.svg" alt="GPULiquidAlt.svg" width="64"/> | <img src="./icons/gpu/GPUFlow.svg" title="GPUFlow.svg" alt="GPUFlow.svg" width="64"/> |
 
-### Motherboard
+### Motherboard (./icons/motherboard/)
 
-| `0xf020` | `0xf021` | `0xf022` | `0xf023` | `0xf024` | `0xf025` | `0xf026` | `0xf027` |
+| `U+F020` | `U+F021` | `U+F022` | `U+F023` | `U+F024` | `U+F025` | `U+F026` | `U+F027` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/motherboard/Mobo.svg" width="64"> | <img src="./icons/motherboard/MoboChipset.svg" width="64"> | <img src="./icons/motherboard/MoboTemp.svg" width="64"> | <img src="./icons/motherboard/MoboHotspot.svg" width="64"> | <img src="./icons/motherboard/MoboAmps.svg" width="64"> | <img src="./icons/motherboard/MoboVolts.svg" width="64"> | <img src="./icons/motherboard/MoboPower.svg" width="64"> | <img src="./icons/motherboard/MoboFan.svg" width="64"> |
+| <img src="./icons/motherboard/Mobo.svg" title="Mobo.svg" alt="Mobo.svg" width="64"/> | <img src="./icons/motherboard/MoboChipset.svg" title="MoboChipset.svg" alt="MoboChipset.svg" width="64"/> | <img src="./icons/motherboard/MoboTemp.svg" title="MoboTemp.svg" alt="MoboTemp.svg" width="64"/> | <img src="./icons/motherboard/MoboHotspot.svg" title="MoboHotspot.svg" alt="MoboHotspot.svg" width="64"/> | <img src="./icons/motherboard/MoboAmps.svg" title="MoboAmps.svg" alt="MoboAmps.svg" width="64"/> | <img src="./icons/motherboard/MoboVolts.svg" title="MoboVolts.svg" alt="MoboVolts.svg" width="64"/> | <img src="./icons/motherboard/MoboPower.svg" title="MoboPower.svg" alt="MoboPower.svg" width="64"/> | <img src="./icons/motherboard/MoboFan.svg" title="MoboFan.svg" alt="MoboFan.svg" width="64"/> |
 
-| `0xf028` | `0xf029` | `0xf02a` | `0xf02b` |
+| `U+F028` | `U+F029` | `U+F02A` | `U+F02B` |
 | :---: | :---: | :---: | :---: |
-| <img src="./icons/motherboard/MoboWaterPump.svg" width="64"> | <img src="./icons/motherboard/MoboLiquid.svg" width="64"> | <img src="./icons/motherboard/MoboLiquidAlt.svg" width="64"> | <img src="./icons/motherboard/MoboFlow.svg" width="64"> |
+| <img src="./icons/motherboard/MoboWaterPump.svg" title="MoboWaterPump.svg" alt="MoboWaterPump.svg" width="64"/> | <img src="./icons/motherboard/MoboLiquid.svg" title="MoboLiquid.svg" alt="MoboLiquid.svg" width="64"/> | <img src="./icons/motherboard/MoboLiquidAlt.svg" title="MoboLiquidAlt.svg" alt="MoboLiquidAlt.svg" width="64"/> | <img src="./icons/motherboard/MoboFlow.svg" title="MoboFlow.svg" alt="MoboFlow.svg" width="64"/> |
 
-### RAM
+### RAM (./icons/ram/)
 
-| `0xf030` | `0xf031` | `0xf032` | `0xf033` | `0xf034` | `0xf035` | `0xf036` | `0xf037` |
+| `U+F030` | `U+F031` | `U+F032` | `U+F033` | `U+F034` | `U+F035` | `U+F036` | `U+F037` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/ram/RAM.svg" width="64"> | <img src="./icons/ram/RAMSingle.svg" width="64"> | <img src="./icons/ram/RAMSingleAlt.svg" width="64"> | <img src="./icons/ram/RAMTemp.svg" width="64"> | <img src="./icons/ram/RAMHotspot.svg" width="64"> | <img src="./icons/ram/RAMAmps.svg" width="64"> | <img src="./icons/ram/RAMVolts.svg" width="64"> | <img src="./icons/ram/RAMPower.svg" width="64"> |
+| <img src="./icons/ram/RAM.svg" title="RAM.svg" alt="RAM.svg" width="64"/> | <img src="./icons/ram/RAMSingle.svg" title="RAMSingle.svg" alt="RAMSingle.svg" width="64"/> | <img src="./icons/ram/RAMSingleAlt.svg" title="RAMSingleAlt.svg" alt="RAMSingleAlt.svg" width="64"/> | <img src="./icons/ram/RAMTemp.svg" title="RAMTemp.svg" alt="RAMTemp.svg" width="64"/> | <img src="./icons/ram/RAMHotspot.svg" title="RAMHotspot.svg" alt="RAMHotspot.svg" width="64"/> | <img src="./icons/ram/RAMAmps.svg" title="RAMAmps.svg" alt="RAMAmps.svg" width="64"/> | <img src="./icons/ram/RAMVolts.svg" title="RAMVolts.svg" alt="RAMVolts.svg" width="64"/> | <img src="./icons/ram/RAMPower.svg" title="RAMPower.svg" alt="RAMPower.svg" width="64"/> |
 
-| `0xf038` | `0xf039` | `0xf03a` | `0xf03b` | `0xf03c` |
+| `U+F038` | `U+F039` | `U+F03A` | `U+F03B` | `U+F03C` |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/ram/RAMFan.svg" width="64"> | <img src="./icons/ram/RAMWaterPump.svg" width="64"> | <img src="./icons/ram/RAMLiquid.svg" width="64"> | <img src="./icons/ram/RAMLiquidAlt.svg" width="64"> | <img src="./icons/ram/RAMFlow.svg" width="64"> |
+| <img src="./icons/ram/RAMFan.svg" title="RAMFan.svg" alt="RAMFan.svg" width="64"/> | <img src="./icons/ram/RAMWaterPump.svg" title="RAMWaterPump.svg" alt="RAMWaterPump.svg" width="64"/> | <img src="./icons/ram/RAMLiquid.svg" title="RAMLiquid.svg" alt="RAMLiquid.svg" width="64"/> | <img src="./icons/ram/RAMLiquidAlt.svg" title="RAMLiquidAlt.svg" alt="RAMLiquidAlt.svg" width="64"/> | <img src="./icons/ram/RAMFlow.svg" title="RAMFlow.svg" alt="RAMFlow.svg" width="64"/> |
 
-### Drives
+### Drives (./icons/drives/)
 
-| `0xf080` | `0xf081` | `0xf082` | `0xf083` | `0xf084` | `0xf085` | `0xf086` | `0xf087` |
+| `U+F080` | `U+F081` | `U+F082` | `U+F083` | `U+F084` | `U+F085` | `U+F086` | `U+F087` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/drives/Drive.svg" width="64"> | <img src="./icons/drives/DriveTemp.svg" width="64"> | <img src="./icons/drives/DriveHotspot.svg" width="64"> | <img src="./icons/drives/DriveAmps.svg" width="64"> | <img src="./icons/drives/DriveVolts.svg" width="64"> | <img src="./icons/drives/DrivePower.svg" width="64"> | <img src="./icons/drives/DriveFan.svg" width="64"> | <img src="./icons/drives/DriveWaterPump.svg" width="64"> |
+| <img src="./icons/drives/Drive.svg" title="Drive.svg" alt="Drive.svg" width="64"/> | <img src="./icons/drives/DriveTemp.svg" title="DriveTemp.svg" alt="DriveTemp.svg" width="64"/> | <img src="./icons/drives/DriveHotspot.svg" title="DriveHotspot.svg" alt="DriveHotspot.svg" width="64"/> | <img src="./icons/drives/DriveAmps.svg" title="DriveAmps.svg" alt="DriveAmps.svg" width="64"/> | <img src="./icons/drives/DriveVolts.svg" title="DriveVolts.svg" alt="DriveVolts.svg" width="64"/> | <img src="./icons/drives/DrivePower.svg" title="DrivePower.svg" alt="DrivePower.svg" width="64"/> | <img src="./icons/drives/DriveFan.svg" title="DriveFan.svg" alt="DriveFan.svg" width="64"/> | <img src="./icons/drives/DriveWaterPump.svg" title="DriveWaterPump.svg" alt="DriveWaterPump.svg" width="64"/> |
 
-| `0xf088` | `0xf089` | `0xf08a` |
+| `U+F088` | `U+F089` | `U+F08A` |
 | :---: | :---: | :---: |
-| <img src="./icons/drives/DriveLiquid.svg" width="64"> | <img src="./icons/drives/DriveLiquidAlt.svg" width="64"> | <img src="./icons/drives/DriveFlow.svg" width="64"> |
+| <img src="./icons/drives/DriveLiquid.svg" title="DriveLiquid.svg" alt="DriveLiquid.svg" width="64"/> | <img src="./icons/drives/DriveLiquidAlt.svg" title="DriveLiquidAlt.svg" alt="DriveLiquidAlt.svg" width="64"/> | <img src="./icons/drives/DriveFlow.svg" title="DriveFlow.svg" alt="DriveFlow.svg" width="64"/> |
 
-### Drive Letters
+### Drive Letters (./icons/drives/letters)
 
-| `0xf090` | `0xf091` | `0xf092` | `0xf093` | `0xf094` | `0xf095` | `0xf096` | `0xf097` |
+| `U+F090` | `U+F091` | `U+F092` | `U+F093` | `U+F094` | `U+F095` | `U+F096` | `U+F097` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/drives/letters/DriveA.svg" width="64"> | <img src="./icons/drives/letters/DriveB.svg" width="64"> | <img src="./icons/drives/letters/DriveC.svg" width="64"> | <img src="./icons/drives/letters/DriveD.svg" width="64"> | <img src="./icons/drives/letters/DriveE.svg" width="64"> | <img src="./icons/drives/letters/DriveF.svg" width="64"> | <img src="./icons/drives/letters/DriveG.svg" width="64"> | <img src="./icons/drives/letters/DriveH.svg" width="64"> |
+| <img src="./icons/drives/letters/DriveA.svg" title="DriveA.svg" alt="DriveA.svg" width="64"/> | <img src="./icons/drives/letters/DriveB.svg" title="DriveB.svg" alt="DriveB.svg" width="64"/> | <img src="./icons/drives/letters/DriveC.svg" title="DriveC.svg" alt="DriveC.svg" width="64"/> | <img src="./icons/drives/letters/DriveD.svg" title="DriveD.svg" alt="DriveD.svg" width="64"/> | <img src="./icons/drives/letters/DriveE.svg" title="DriveE.svg" alt="DriveE.svg" width="64"/> | <img src="./icons/drives/letters/DriveF.svg" title="DriveF.svg" alt="DriveF.svg" width="64"/> | <img src="./icons/drives/letters/DriveG.svg" title="DriveG.svg" alt="DriveG.svg" width="64"/> | <img src="./icons/drives/letters/DriveH.svg" title="DriveH.svg" alt="DriveH.svg" width="64"/> |
 
-| `0xf098` | `0xf099` | `0xf09a` | `0xf09b` | `0xf09c` | `0xf09d` | `0xf09e` | `0xf09f` |
+| `U+F098` | `U+F099` | `U+F09A` | `U+F09B` | `U+F09C` | `U+F09D` | `U+F09E` | `U+F09F` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/drives/letters/DriveI.svg" width="64"> | <img src="./icons/drives/letters/DriveJ.svg" width="64"> | <img src="./icons/drives/letters/DriveK.svg" width="64"> | <img src="./icons/drives/letters/DriveL.svg" width="64"> | <img src="./icons/drives/letters/DriveM.svg" width="64"> | <img src="./icons/drives/letters/DriveN.svg" width="64"> | <img src="./icons/drives/letters/DriveO.svg" width="64"> | <img src="./icons/drives/letters/DriveP.svg" width="64"> |
+| <img src="./icons/drives/letters/DriveI.svg" title="DriveI.svg" alt="DriveI.svg" width="64"/> | <img src="./icons/drives/letters/DriveJ.svg" title="DriveJ.svg" alt="DriveJ.svg" width="64"/> | <img src="./icons/drives/letters/DriveK.svg" title="DriveK.svg" alt="DriveK.svg" width="64"/> | <img src="./icons/drives/letters/DriveL.svg" title="DriveL.svg" alt="DriveL.svg" width="64"/> | <img src="./icons/drives/letters/DriveM.svg" title="DriveM.svg" alt="DriveM.svg" width="64"/> | <img src="./icons/drives/letters/DriveN.svg" title="DriveN.svg" alt="DriveN.svg" width="64"/> | <img src="./icons/drives/letters/DriveO.svg" title="DriveO.svg" alt="DriveO.svg" width="64"/> | <img src="./icons/drives/letters/DriveP.svg" title="DriveP.svg" alt="DriveP.svg" width="64"/> |
 
-| `0xf0a0` | `0xf0a1` | `0xf0a2` | `0xf0a3` | `0xf0a4` | `0xf0a5` | `0xf0a6` | `0xf0a7` |
+| `U+F0A0` | `U+F0A1` | `U+F0A2` | `U+F0A3` | `U+F0A4` | `U+F0A5` | `U+F0A6` | `U+F0A7` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/drives/letters/DriveQ.svg" width="64"> | <img src="./icons/drives/letters/DriveR.svg" width="64"> | <img src="./icons/drives/letters/DriveS.svg" width="64"> | <img src="./icons/drives/letters/DriveT.svg" width="64"> | <img src="./icons/drives/letters/DriveU.svg" width="64"> | <img src="./icons/drives/letters/DriveV.svg" width="64"> | <img src="./icons/drives/letters/DriveW.svg" width="64"> | <img src="./icons/drives/letters/DriveX.svg" width="64"> |
+| <img src="./icons/drives/letters/DriveQ.svg" title="DriveQ.svg" alt="DriveQ.svg" width="64"/> | <img src="./icons/drives/letters/DriveR.svg" title="DriveR.svg" alt="DriveR.svg" width="64"/> | <img src="./icons/drives/letters/DriveS.svg" title="DriveS.svg" alt="DriveS.svg" width="64"/> | <img src="./icons/drives/letters/DriveT.svg" title="DriveT.svg" alt="DriveT.svg" width="64"/> | <img src="./icons/drives/letters/DriveU.svg" title="DriveU.svg" alt="DriveU.svg" width="64"/> | <img src="./icons/drives/letters/DriveV.svg" title="DriveV.svg" alt="DriveV.svg" width="64"/> | <img src="./icons/drives/letters/DriveW.svg" title="DriveW.svg" alt="DriveW.svg" width="64"/> | <img src="./icons/drives/letters/DriveX.svg" title="DriveX.svg" alt="DriveX.svg" width="64"/> |
 
-| `0xf0a8` | `0xf0a9` |
+| `U+F0A8` | `U+F0A9` |
 | :---: | :---: |
-| <img src="./icons/drives/letters/DriveY.svg" width="64"> | <img src="./icons/drives/letters/DriveZ.svg" width="64"> |
+| <img src="./icons/drives/letters/DriveY.svg" title="DriveY.svg" alt="DriveY.svg" width="64"/> | <img src="./icons/drives/letters/DriveZ.svg" title="DriveZ.svg" alt="DriveZ.svg" width="64"/> |
 
-### Recycling Bin
+### Recycling Bin (./icons/misc/)
 
-| `0xf0b0` | `0xf0b1` |
+| `U+F0B0` | `U+F0B1` |
 | :---: | :---: |
-| <img src="./icons/misc/RecyclingBin.svg" width="64"> | <img src="./icons/misc/RecyclingBinFull.svg" width="64"> |
+| <img src="./icons/misc/RecyclingBin.svg" title="RecyclingBin.svg" alt="RecyclingBin.svg" width="64"/> | <img src="./icons/misc/RecyclingBinFull.svg" title="RecyclingBinFull.svg" alt="RecyclingBinFull.svg" width="64"/> |
 
-### Fan
+### Fan (./icons/misc/)
 
-| `0xf040` | `0xf041` |
+| `U+F040` | `U+F041` |
 | :---: | :---: |
-| <img src="./icons/misc/Fan.svg" width="64"> | <img src="./icons/misc/FanBlades.svg" width="64"> |
+| <img src="./icons/misc/Fan.svg" title="Fan.svg" alt="Fan.svg" width="64"/> | <img src="./icons/misc/FanBlades.svg" title="FanBlades.svg" alt="FanBlades.svg" width="64"/> |
 
-### Water Pump
+### Water Pump (./icons/misc/)
 
-| `0xf048` |
+| `U+F048` |
 | :---: |
-| <img src="./icons/misc/WaterPump.svg" width="64"> |
+| <img src="./icons/misc/WaterPump.svg" title="WaterPump.svg" alt="WaterPump.svg" width="64"/> |
 
-### Networking
+### Networking (./icons/networking/)
 
-| `0xf050` | `0xf051` | `0xf052` | `0xf053` | `0xf054` | `0xf055` | `0xf056` | `0xf057` |
+| `U+F050` | `U+F051` | `U+F052` | `U+F053` | `U+F054` | `U+F055` | `U+F056` | `U+F057` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/networking/Internet.svg" width="64"> | <img src="./icons/networking/InternetDownload.svg" width="64"> | <img src="./icons/networking/InternetUpload.svg" width="64"> | <img src="./icons/networking/InternetUpDown.svg" width="64"> | <img src="./icons/networking/InternetUpDownAlt.svg" width="64"> | <img src="./icons/networking/Ethernet.svg" width="64"> | <img src="./icons/networking/EthernetDownload.svg" width="64"> | <img src="./icons/networking/EthernetUpload.svg" width="64"> |
+| <img src="./icons/networking/Internet.svg" title="Internet.svg" alt="Internet.svg" width="64"/> | <img src="./icons/networking/InternetDownload.svg" title="InternetDownload.svg" alt="InternetDownload.svg" width="64"/> | <img src="./icons/networking/InternetUpload.svg" title="InternetUpload.svg" alt="InternetUpload.svg" width="64"/> | <img src="./icons/networking/InternetUpDown.svg" title="InternetUpDown.svg" alt="InternetUpDown.svg" width="64"/> | <img src="./icons/networking/InternetUpDownAlt.svg" title="InternetUpDownAlt.svg" alt="InternetUpDownAlt.svg" width="64"/> | <img src="./icons/networking/Ethernet.svg" title="Ethernet.svg" alt="Ethernet.svg" width="64"/> | <img src="./icons/networking/EthernetDownload.svg" title="EthernetDownload.svg" alt="EthernetDownload.svg" width="64"/> | <img src="./icons/networking/EthernetUpload.svg" title="EthernetUpload.svg" alt="EthernetUpload.svg" width="64"/> |
 
-| `0xf058` | `0xf059` | `0xf05a` | `0xf05b` | `0xf05c` | `0xf05d` | `0xf05e` |
+| `U+F058` | `U+F059` | `U+F05A` | `U+F05B` | `U+F05C` | `U+F05D` | `U+F05E` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/networking/EthernetUpDown.svg" width="64"> | <img src="./icons/networking/EthernetUpDownAlt.svg" width="64"> | <img src="./icons/networking/Wifi.svg" width="64"> | <img src="./icons/networking/WifiDownload.svg" width="64"> | <img src="./icons/networking/WifiUpload.svg" width="64"> | <img src="./icons/networking/WifiUpDown.svg" width="64"> | <img src="./icons/networking/WifiUpDownAlt.svg" width="64"> |
+| <img src="./icons/networking/EthernetUpDown.svg" title="EthernetUpDown.svg" alt="EthernetUpDown.svg" width="64"/> | <img src="./icons/networking/EthernetUpDownAlt.svg" title="EthernetUpDownAlt.svg" alt="EthernetUpDownAlt.svg" width="64"/> | <img src="./icons/networking/Wifi.svg" title="Wifi.svg" alt="Wifi.svg" width="64"/> | <img src="./icons/networking/WifiDownload.svg" title="WifiDownload.svg" alt="WifiDownload.svg" width="64"/> | <img src="./icons/networking/WifiUpload.svg" title="WifiUpload.svg" alt="WifiUpload.svg" width="64"/> | <img src="./icons/networking/WifiUpDown.svg" title="WifiUpDown.svg" alt="WifiUpDown.svg" width="64"/> | <img src="./icons/networking/WifiUpDownAlt.svg" title="WifiUpDownAlt.svg" alt="WifiUpDownAlt.svg" width="64"/> |
 
-### Statistics
+### Statistics (./icons/stats/)
 
-| `0xf070` | `0xf071` | `0xf072` | `0xf073` | `0xf074` | `0xf075` | `0xf076` | `0xf077` |
+| `U+F070` | `U+F071` | `U+F072` | `U+F073` | `U+F074` | `U+F075` | `U+F076` | `U+F077` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/stats/Clock.svg" width="64"> | <img src="./icons/stats/Timer.svg" width="64"> | <img src="./icons/stats/BarGraph.svg" width="64"> | <img src="./icons/stats/Graph.svg" width="64"> | <img src="./icons/stats/0.1_Percentile.svg" width="64"> | <img src="./icons/stats/1.0_Percentile.svg" width="64"> | <img src="./icons/stats/50_Percentile.svg" width="64"> | <img src="./icons/stats/99.0_Percentile.svg" width="64"> |
+| <img src="./icons/stats/Clock.svg" title="Clock.svg" alt="Clock.svg" width="64"/> | <img src="./icons/stats/Timer.svg" title="Timer.svg" alt="Timer.svg" width="64"/> | <img src="./icons/stats/BarGraph.svg" title="BarGraph.svg" alt="BarGraph.svg" width="64"/> | <img src="./icons/stats/Graph.svg" title="Graph.svg" alt="Graph.svg" width="64"/> | <img src="./icons/stats/0.1_Percentile.svg" title="0.1_Percentile.svg" alt="0.1_Percentile.svg" width="64"/> | <img src="./icons/stats/1.0_Percentile.svg" title="1.0_Percentile.svg" alt="1.0_Percentile.svg" width="64"/> | <img src="./icons/stats/50_Percentile.svg" title="50_Percentile.svg" alt="50_Percentile.svg" width="64"/> | <img src="./icons/stats/99.0_Percentile.svg" title="99.0_Percentile.svg" alt="99.0_Percentile.svg" width="64"/> |
 
-| `0xf078` |
+| `U+F078` |
 | :---: |
-| <img src="./icons/stats/99.9_Percentile.svg" width="64"> |
+| <img src="./icons/stats/99.9_Percentile.svg" title="99.9_Percentile.svg" alt="99.9_Percentile.svg" width="64"/> |
 
-### Time
+### Time (./icons/stats/time)
 
-| `0xf0d0` | `0xf0d1` | `0xf0d2` | `0xf0d3` | `0xf0d4` | `0xf0d5` | `0xf0d6` | `0xf0d7` |
+| `U+F0D0` | `U+F0D1` | `U+F0D2` | `U+F0D3` | `U+F0D4` | `U+F0D5` | `U+F0D6` | `U+F0D7` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/stats/time/Clock_00_00.svg" width="64"> | <img src="./icons/stats/time/Clock_00_15.svg" width="64"> | <img src="./icons/stats/time/Clock_00_30.svg" width="64"> | <img src="./icons/stats/time/Clock_00_45.svg" width="64"> | <img src="./icons/stats/time/Clock_01_00.svg" width="64"> | <img src="./icons/stats/time/Clock_01_15.svg" width="64"> | <img src="./icons/stats/time/Clock_01_30.svg" width="64"> | <img src="./icons/stats/time/Clock_01_45.svg" width="64"> |
+| <img src="./icons/stats/time/Clock_00_00.svg" title="Clock_00_00.svg" alt="Clock_00_00.svg" width="64"/> | <img src="./icons/stats/time/Clock_00_15.svg" title="Clock_00_15.svg" alt="Clock_00_15.svg" width="64"/> | <img src="./icons/stats/time/Clock_00_30.svg" title="Clock_00_30.svg" alt="Clock_00_30.svg" width="64"/> | <img src="./icons/stats/time/Clock_00_45.svg" title="Clock_00_45.svg" alt="Clock_00_45.svg" width="64"/> | <img src="./icons/stats/time/Clock_01_00.svg" title="Clock_01_00.svg" alt="Clock_01_00.svg" width="64"/> | <img src="./icons/stats/time/Clock_01_15.svg" title="Clock_01_15.svg" alt="Clock_01_15.svg" width="64"/> | <img src="./icons/stats/time/Clock_01_30.svg" title="Clock_01_30.svg" alt="Clock_01_30.svg" width="64"/> | <img src="./icons/stats/time/Clock_01_45.svg" title="Clock_01_45.svg" alt="Clock_01_45.svg" width="64"/> |
 
-| `0xf0d8` | `0xf0d9` | `0xf0da` | `0xf0db` | `0xf0dc` | `0xf0dd` | `0xf0de` | `0xf0df` |
+| `U+F0D8` | `U+F0D9` | `U+F0DA` | `U+F0DB` | `U+F0DC` | `U+F0DD` | `U+F0DE` | `U+F0DF` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/stats/time/Clock_02_00.svg" width="64"> | <img src="./icons/stats/time/Clock_02_15.svg" width="64"> | <img src="./icons/stats/time/Clock_02_30.svg" width="64"> | <img src="./icons/stats/time/Clock_02_45.svg" width="64"> | <img src="./icons/stats/time/Clock_03_00.svg" width="64"> | <img src="./icons/stats/time/Clock_03_15.svg" width="64"> | <img src="./icons/stats/time/Clock_03_30.svg" width="64"> | <img src="./icons/stats/time/Clock_03_45.svg" width="64"> |
+| <img src="./icons/stats/time/Clock_02_00.svg" title="Clock_02_00.svg" alt="Clock_02_00.svg" width="64"/> | <img src="./icons/stats/time/Clock_02_15.svg" title="Clock_02_15.svg" alt="Clock_02_15.svg" width="64"/> | <img src="./icons/stats/time/Clock_02_30.svg" title="Clock_02_30.svg" alt="Clock_02_30.svg" width="64"/> | <img src="./icons/stats/time/Clock_02_45.svg" title="Clock_02_45.svg" alt="Clock_02_45.svg" width="64"/> | <img src="./icons/stats/time/Clock_03_00.svg" title="Clock_03_00.svg" alt="Clock_03_00.svg" width="64"/> | <img src="./icons/stats/time/Clock_03_15.svg" title="Clock_03_15.svg" alt="Clock_03_15.svg" width="64"/> | <img src="./icons/stats/time/Clock_03_30.svg" title="Clock_03_30.svg" alt="Clock_03_30.svg" width="64"/> | <img src="./icons/stats/time/Clock_03_45.svg" title="Clock_03_45.svg" alt="Clock_03_45.svg" width="64"/> |
 
-| `0xf0e0` | `0xf0e1` | `0xf0e2` | `0xf0e3` | `0xf0e4` | `0xf0e5` | `0xf0e6` | `0xf0e7` |
+| `U+F0E0` | `U+F0E1` | `U+F0E2` | `U+F0E3` | `U+F0E4` | `U+F0E5` | `U+F0E6` | `U+F0E7` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/stats/time/Clock_04_00.svg" width="64"> | <img src="./icons/stats/time/Clock_04_15.svg" width="64"> | <img src="./icons/stats/time/Clock_04_30.svg" width="64"> | <img src="./icons/stats/time/Clock_04_45.svg" width="64"> | <img src="./icons/stats/time/Clock_05_00.svg" width="64"> | <img src="./icons/stats/time/Clock_05_15.svg" width="64"> | <img src="./icons/stats/time/Clock_05_30.svg" width="64"> | <img src="./icons/stats/time/Clock_05_45.svg" width="64"> |
+| <img src="./icons/stats/time/Clock_04_00.svg" title="Clock_04_00.svg" alt="Clock_04_00.svg" width="64"/> | <img src="./icons/stats/time/Clock_04_15.svg" title="Clock_04_15.svg" alt="Clock_04_15.svg" width="64"/> | <img src="./icons/stats/time/Clock_04_30.svg" title="Clock_04_30.svg" alt="Clock_04_30.svg" width="64"/> | <img src="./icons/stats/time/Clock_04_45.svg" title="Clock_04_45.svg" alt="Clock_04_45.svg" width="64"/> | <img src="./icons/stats/time/Clock_05_00.svg" title="Clock_05_00.svg" alt="Clock_05_00.svg" width="64"/> | <img src="./icons/stats/time/Clock_05_15.svg" title="Clock_05_15.svg" alt="Clock_05_15.svg" width="64"/> | <img src="./icons/stats/time/Clock_05_30.svg" title="Clock_05_30.svg" alt="Clock_05_30.svg" width="64"/> | <img src="./icons/stats/time/Clock_05_45.svg" title="Clock_05_45.svg" alt="Clock_05_45.svg" width="64"/> |
 
-| `0xf0e8` | `0xf0e9` | `0xf0ea` | `0xf0eb` | `0xf0ec` | `0xf0ed` | `0xf0ee` | `0xf0ef` |
+| `U+F0E8` | `U+F0E9` | `U+F0EA` | `U+F0EB` | `U+F0EC` | `U+F0ED` | `U+F0EE` | `U+F0EF` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/stats/time/Clock_06_00.svg" width="64"> | <img src="./icons/stats/time/Clock_06_15.svg" width="64"> | <img src="./icons/stats/time/Clock_06_30.svg" width="64"> | <img src="./icons/stats/time/Clock_06_45.svg" width="64"> | <img src="./icons/stats/time/Clock_07_00.svg" width="64"> | <img src="./icons/stats/time/Clock_07_15.svg" width="64"> | <img src="./icons/stats/time/Clock_07_30.svg" width="64"> | <img src="./icons/stats/time/Clock_07_45.svg" width="64"> |
+| <img src="./icons/stats/time/Clock_06_00.svg" title="Clock_06_00.svg" alt="Clock_06_00.svg" width="64"/> | <img src="./icons/stats/time/Clock_06_15.svg" title="Clock_06_15.svg" alt="Clock_06_15.svg" width="64"/> | <img src="./icons/stats/time/Clock_06_30.svg" title="Clock_06_30.svg" alt="Clock_06_30.svg" width="64"/> | <img src="./icons/stats/time/Clock_06_45.svg" title="Clock_06_45.svg" alt="Clock_06_45.svg" width="64"/> | <img src="./icons/stats/time/Clock_07_00.svg" title="Clock_07_00.svg" alt="Clock_07_00.svg" width="64"/> | <img src="./icons/stats/time/Clock_07_15.svg" title="Clock_07_15.svg" alt="Clock_07_15.svg" width="64"/> | <img src="./icons/stats/time/Clock_07_30.svg" title="Clock_07_30.svg" alt="Clock_07_30.svg" width="64"/> | <img src="./icons/stats/time/Clock_07_45.svg" title="Clock_07_45.svg" alt="Clock_07_45.svg" width="64"/> |
 
-| `0xf0f0` | `0xf0f1` | `0xf0f2` | `0xf0f3` | `0xf0f4` | `0xf0f5` | `0xf0f6` | `0xf0f7` |
+| `U+F0F0` | `U+F0F1` | `U+F0F2` | `U+F0F3` | `U+F0F4` | `U+F0F5` | `U+F0F6` | `U+F0F7` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/stats/time/Clock_08_00.svg" width="64"> | <img src="./icons/stats/time/Clock_08_15.svg" width="64"> | <img src="./icons/stats/time/Clock_08_30.svg" width="64"> | <img src="./icons/stats/time/Clock_08_45.svg" width="64"> | <img src="./icons/stats/time/Clock_09_00.svg" width="64"> | <img src="./icons/stats/time/Clock_09_15.svg" width="64"> | <img src="./icons/stats/time/Clock_09_30.svg" width="64"> | <img src="./icons/stats/time/Clock_09_45.svg" width="64"> |
+| <img src="./icons/stats/time/Clock_08_00.svg" title="Clock_08_00.svg" alt="Clock_08_00.svg" width="64"/> | <img src="./icons/stats/time/Clock_08_15.svg" title="Clock_08_15.svg" alt="Clock_08_15.svg" width="64"/> | <img src="./icons/stats/time/Clock_08_30.svg" title="Clock_08_30.svg" alt="Clock_08_30.svg" width="64"/> | <img src="./icons/stats/time/Clock_08_45.svg" title="Clock_08_45.svg" alt="Clock_08_45.svg" width="64"/> | <img src="./icons/stats/time/Clock_09_00.svg" title="Clock_09_00.svg" alt="Clock_09_00.svg" width="64"/> | <img src="./icons/stats/time/Clock_09_15.svg" title="Clock_09_15.svg" alt="Clock_09_15.svg" width="64"/> | <img src="./icons/stats/time/Clock_09_30.svg" title="Clock_09_30.svg" alt="Clock_09_30.svg" width="64"/> | <img src="./icons/stats/time/Clock_09_45.svg" title="Clock_09_45.svg" alt="Clock_09_45.svg" width="64"/> |
 
-| `0xf0f8` | `0xf0f9` | `0xf0fa` | `0xf0fb` | `0xf0fc` | `0xf0fd` | `0xf0fe` | `0xf0ff` |
+| `U+F0F8` | `U+F0F9` | `U+F0FA` | `U+F0FB` | `U+F0FC` | `U+F0FD` | `U+F0FE` | `U+F0FF` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/stats/time/Clock_10_00.svg" width="64"> | <img src="./icons/stats/time/Clock_10_15.svg" width="64"> | <img src="./icons/stats/time/Clock_10_30.svg" width="64"> | <img src="./icons/stats/time/Clock_10_45.svg" width="64"> | <img src="./icons/stats/time/Clock_11_00.svg" width="64"> | <img src="./icons/stats/time/Clock_11_15.svg" width="64"> | <img src="./icons/stats/time/Clock_11_30.svg" width="64"> | <img src="./icons/stats/time/Clock_11_45.svg" width="64"> |
+| <img src="./icons/stats/time/Clock_10_00.svg" title="Clock_10_00.svg" alt="Clock_10_00.svg" width="64"/> | <img src="./icons/stats/time/Clock_10_15.svg" title="Clock_10_15.svg" alt="Clock_10_15.svg" width="64"/> | <img src="./icons/stats/time/Clock_10_30.svg" title="Clock_10_30.svg" alt="Clock_10_30.svg" width="64"/> | <img src="./icons/stats/time/Clock_10_45.svg" title="Clock_10_45.svg" alt="Clock_10_45.svg" width="64"/> | <img src="./icons/stats/time/Clock_11_00.svg" title="Clock_11_00.svg" alt="Clock_11_00.svg" width="64"/> | <img src="./icons/stats/time/Clock_11_15.svg" title="Clock_11_15.svg" alt="Clock_11_15.svg" width="64"/> | <img src="./icons/stats/time/Clock_11_30.svg" title="Clock_11_30.svg" alt="Clock_11_30.svg" width="64"/> | <img src="./icons/stats/time/Clock_11_45.svg" title="Clock_11_45.svg" alt="Clock_11_45.svg" width="64"/> |
 
-### Miscellaneous
+### Miscellaneous (./icons/misc/)
 
-| `0xf060` | `0xf061` | `0xf062` | `0xf063` | `0xf064` | `0xf065` | `0xf066` | `0xf067` |
+| `U+F060` | `U+F061` | `U+F062` | `U+F063` | `U+F064` | `U+F065` | `U+F066` | `U+F067` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/misc/Thermometer.svg" width="64"> | <img src="./icons/misc/Flame.svg" width="64"> | <img src="./icons/misc/AmpsDC.svg" width="64"> | <img src="./icons/misc/VoltsDC.svg" width="64"> | <img src="./icons/misc/Power.svg" width="64"> | <img src="./icons/misc/PowerFilled.svg" width="64"> | <img src="./icons/misc/WaterDrop.svg" width="64"> | <img src="./icons/misc/WaterDropFilled.svg" width="64"> |
+| <img src="./icons/misc/Thermometer.svg" title="Thermometer.svg" alt="Thermometer.svg" width="64"/> | <img src="./icons/misc/Flame.svg" title="Flame.svg" alt="Flame.svg" width="64"/> | <img src="./icons/misc/AmpsDC.svg" title="AmpsDC.svg" alt="AmpsDC.svg" width="64"/> | <img src="./icons/misc/VoltsDC.svg" title="VoltsDC.svg" alt="VoltsDC.svg" width="64"/> | <img src="./icons/misc/Power.svg" title="Power.svg" alt="Power.svg" width="64"/> | <img src="./icons/misc/PowerFilled.svg" title="PowerFilled.svg" alt="PowerFilled.svg" width="64"/> | <img src="./icons/misc/WaterDrop.svg" title="WaterDrop.svg" alt="WaterDrop.svg" width="64"/> | <img src="./icons/misc/WaterDropFilled.svg" title="WaterDropFilled.svg" alt="WaterDropFilled.svg" width="64"/> |
 
-| `0xf068` | `0xf069` | `0xf06a` |
+| `U+F068` | `U+F069` | `U+F06A` |
 | :---: | :---: | :---: |
-| <img src="./icons/misc/WaterDrops.svg" width="64"> | <img src="./icons/misc/WaterDropsFilled.svg" width="64"> | <img src="./icons/misc/WaterFlow.svg" width="64"> |
+| <img src="./icons/misc/WaterDrops.svg" title="WaterDrops.svg" alt="WaterDrops.svg" width="64"/> | <img src="./icons/misc/WaterDropsFilled.svg" title="WaterDropsFilled.svg" alt="WaterDropsFilled.svg" width="64"/> | <img src="./icons/misc/WaterFlow.svg" title="WaterFlow.svg" alt="WaterFlow.svg" width="64"/> |
 
 
