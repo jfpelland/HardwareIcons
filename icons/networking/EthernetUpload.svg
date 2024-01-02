@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="308"
+   height="308"
+   viewBox="0 0 7.7 7.6999999"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="EthernetUpload.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#e6e6e6"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#404040"
+     showgrid="true"
+     inkscape:zoom="2.1175"
+     inkscape:cx="224.32113"
+     inkscape:cy="145.45455"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Page-1"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid247"
+       empspacing="16"
+       dotted="true"
+       originx="0"
+       originy="-0.91899998" />
+  </sodipodi:namedview>
+  <title
+     id="title2">wifi [#1018]</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="translate(-0.057097,-3.71415)">
+    <path
+       id="path448"
+       style="fill:#000000;stroke-width:0.57445;stroke-linecap:round;paint-order:stroke fill markers"
+       d="M 4.2041673 3525.5781 A 0.14707351 0.14707351 0 0 0 4.057097 3525.7251 L 4.057097 3530.431 A 0.14707351 0.14707351 0 0 0 4.2041673 3530.5781 L 8.9100267 3530.5781 A 0.14707351 0.14707351 0 0 0 9.057097 3530.431 L 9.057097 3525.7251 A 0.14707351 0.14707351 0 0 0 8.9100267 3525.5781 L 4.2041673 3525.5781 z M 4.3512376 3525.8722 L 8.7629563 3525.8722 L 8.7629563 3530.284 L 4.3512376 3530.284 L 4.3512376 3525.8722 z M 4.8316087 3526.235 A 0.1176588 0.1176588 0 0 0 4.7139818 3526.3526 L 4.7139818 3528.7056 A 0.1176588 0.1176588 0 0 0 4.8316087 3528.8232 L 5.1845384 3528.8232 L 5.1845384 3529.1762 A 0.1176588 0.1176588 0 0 0 5.3022142 3529.2938 L 5.8119798 3529.2938 L 5.8119798 3529.8036 A 0.1176588 0.1176588 0 0 0 5.9296556 3529.9212 L 6.557097 3529.9212 L 7.1845384 3529.9212 A 0.1176588 0.1176588 0 0 0 7.3022142 3529.8036 L 7.3022142 3529.2938 L 7.8119798 3529.2938 A 0.1176588 0.1176588 0 0 0 7.9296556 3529.1762 L 7.9296556 3528.8232 L 8.2825853 3528.8232 A 0.1176588 0.1176588 0 0 0 8.4002122 3528.7056 L 8.4002122 3526.3526 A 0.1176588 0.1176588 0 0 0 8.2825853 3526.235 L 4.8316087 3526.235 z M 4.9492357 3526.4703 L 5.1453294 3526.4703 L 5.1453294 3527.0977 A 0.1176588 0.1176588 0 0 0 5.2629564 3527.2154 L 5.7335618 3527.2154 A 0.1176588 0.1176588 0 0 0 5.8512376 3527.0977 L 5.8512376 3526.4703 L 6.2041673 3526.4703 L 6.2041673 3527.0977 A 0.1176588 0.1176588 0 0 0 6.3217943 3527.2154 L 6.7923997 3527.2154 A 0.1176588 0.1176588 0 0 0 6.9100267 3527.0977 L 6.9100267 3526.4703 L 7.2629564 3526.4703 L 7.2629564 3527.0977 A 0.1176588 0.1176588 0 0 0 7.3806321 3527.2154 L 7.8512376 3527.2154 A 0.1176588 0.1176588 0 0 0 7.9688646 3527.0977 L 7.9688646 3526.4703 L 8.1649583 3526.4703 L 8.1649583 3528.5879 L 7.8119798 3528.5879 A 0.1176588 0.1176588 0 0 0 7.6943528 3528.7056 L 7.6943528 3529.0585 L 7.1845384 3529.0585 A 0.1176588 0.1176588 0 0 0 7.0669114 3529.1762 L 7.0669114 3529.6859 L 6.557097 3529.6859 L 6.0472825 3529.6859 L 6.0472825 3529.1762 A 0.1176588 0.1176588 0 0 0 5.9296556 3529.0585 L 5.4198411 3529.0585 L 5.4198411 3528.7056 A 0.1176588 0.1176588 0 0 0 5.3022142 3528.5879 L 4.9492357 3528.5879 L 4.9492357 3526.4703 z M 10.457097 3528.1951 L 9.157097 3529.5951 L 9.857097 3529.5951 L 9.857097 3531.7951 L 11.057097 3531.7951 L 11.057097 3529.5951 L 11.757097 3529.5951 L 10.457097 3528.1951 z "
+       transform="translate(-4,-3521.0001)" />
+    <g
+       inkscape:label="Layer 1"
+       id="layer1"
+       transform="matrix(0.01960784,0,0,0.01960784,0.0472931,4.5682)" />
+  </g>
+  <metadata
+     id="metadata245">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>wifi [#1018]</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

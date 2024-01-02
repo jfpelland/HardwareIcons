@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="50_Percentile.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="4.2683934"
+     inkscape:cx="92.423533"
+     inkscape:cy="120.88858"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       empspacing="8"
+       dotted="true"
+       originx="0"
+       originy="0" />
+    <sodipodi:guide
+       position="128,224"
+       orientation="1,0"
+       id="guide136"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="72,128"
+       orientation="0,-1"
+       id="guide138"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.2922293,-16)">
+    <path
+       id="path14"
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="M 131.29223 64 A 20 20 0 0 0 111.29223 84 A 20 20 0 0 0 111.47973 86.621094 C 110.28194 88.441276 109.21495 90.398284 108.30395 92.507812 C 104.11131 102.21633 102.36597 114.75207 100.91918 128.08789 C 99.472402 141.42371 98.397057 155.54279 96.079339 167.95312 C 93.761619 180.36348 90.117581 190.93745 84.329339 197.31836 C 83.877712 197.81623 81.173499 199.31998 77.393792 200.31445 C 73.614086 201.30892 68.806321 202.07967 63.884026 202.63281 C 54.039436 203.73909 43.669602 204.00586 39.292229 204.00586 L 7.2922293 204.00586 A 4 4 0 0 0 3.2922293 208.00586 A 4 4 0 0 0 7.2922293 212.00586 L 39.292229 212.00586 C 43.981871 212.00586 54.463416 211.74119 64.778557 210.58203 C 69.936128 210.00245 75.035361 209.20677 79.428948 208.05078 C 83.822536 206.89479 87.559862 205.6646 90.25512 202.69336 C 97.789438 194.38758 101.50928 182.46186 103.94457 169.42188 C 106.37989 156.38189 107.4457 142.10093 108.87231 128.95117 C 110.27275 116.0425 112.09933 104.2274 115.46801 96.150391 A 20 20 0 0 0 131.29223 104 A 20 20 0 0 0 147.11449 96.152344 C 150.48277 104.22931 152.30983 116.04332 153.7102 128.95117 C 155.1368 142.10093 156.20458 156.38189 158.63989 169.42188 C 161.07519 182.46186 164.79502 194.38758 172.32934 202.69336 C 175.0246 205.6646 178.75996 206.89479 183.15356 208.05078 C 187.54713 209.20677 192.64637 210.00245 197.80395 210.58203 C 208.11909 211.74119 218.60258 212.00586 223.29223 212.00586 L 255.29223 212.00586 A 4 4 0 0 0 259.29223 208.00586 A 4 4 0 0 0 255.29223 204.00586 L 223.29223 204.00586 C 218.91485 204.00586 208.54307 203.73909 198.69848 202.63281 C 193.77617 202.07967 188.96843 201.30892 185.18871 200.31445 C 181.40902 199.31998 178.70675 197.81623 178.25512 197.31836 C 172.46689 190.93745 168.82087 180.36348 166.50317 167.95312 C 164.18544 155.54279 163.11011 141.42371 161.66332 128.08789 C 160.21653 114.75207 158.47117 102.21633 154.27856 92.507812 C 153.36789 90.39906 152.30196 88.442683 151.10473 86.623047 A 20 20 0 0 0 151.29223 84 A 20 20 0 0 0 131.29223 64 z " />
+  </g>
+  <metadata
+     id="metadata134">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

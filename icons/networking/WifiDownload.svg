@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   width="308"
+   height="308"
+   viewBox="0 0 7.7 7.6999999"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="WifiDownload.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#e6e6e6"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#404040"
+     showgrid="true"
+     inkscape:zoom="2.1175"
+     inkscape:cx="199.05549"
+     inkscape:cy="163.87249"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icons"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid247"
+       empspacing="16"
+       dotted="true"
+       originx="0"
+       originy="-0.91899998" />
+  </sodipodi:namedview>
+  <title
+     id="title2">wifi [#1018]</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="translate(-0.057097,-3.71415)">
+    <g
+       id="Dribbble-Light-Preview"
+       transform="translate(-60,-3681)"
+       fill="#000000">
+      <g
+         id="icons"
+         transform="translate(56,160)">
+        <path
+           id="path16"
+           style="stroke-width:0.320001"
+           d="M 7.257097 3525.5081 C 6.0989216 3525.5081 4.94074 3525.9455 4.057097 3526.8202 L 4.5141771 3527.273 C 6.0267307 3525.7757 8.4874642 3525.7757 10.000017 3527.273 L 10.457097 3526.8202 C 9.5734539 3525.9455 8.4152722 3525.5081 7.257097 3525.5081 z M 7.257097 3526.7884 C 6.4297827 3526.7884 5.6024795 3527.1007 4.971306 3527.7254 L 5.4283861 3528.1779 C 6.4366474 3527.1799 8.0775461 3527.1799 9.0858079 3528.1779 L 9.542888 3527.7254 C 8.9117142 3527.1007 8.0844113 3526.7884 7.257097 3526.7884 z M 7.257097 3528.0682 C 6.7607246 3528.0682 6.2643318 3528.2556 5.8854661 3528.6305 L 6.342888 3529.0833 C 6.8468566 3528.5841 7.667337 3528.5841 8.171306 3529.0833 L 8.6287278 3528.6305 C 8.2498622 3528.2556 7.7534694 3528.0682 7.257097 3528.0682 z M 9.857097 3528.1951 L 9.857097 3530.3951 L 9.157097 3530.3951 L 10.457097 3531.7951 L 11.757097 3530.3951 L 11.057097 3530.3951 L 11.057097 3528.1951 L 9.857097 3528.1951 z M 7.257097 3529.2682 C 6.9338327 3529.2682 6.6105638 3529.5082 6.6105638 3529.9882 C 6.6105638 3530.3083 6.89989 3530.6282 7.257097 3530.6282 C 7.6143038 3530.6282 7.9036302 3530.3081 7.9036302 3529.9882 C 7.9036302 3529.5082 7.5803613 3529.2682 7.257097 3529.2682 z " />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata134">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

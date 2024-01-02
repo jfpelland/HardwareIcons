@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="1.0_Percentile.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="4.2683934"
+     inkscape:cx="92.423533"
+     inkscape:cy="120.88858"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       empspacing="8"
+       dotted="true"
+       originx="0"
+       originy="0" />
+    <sodipodi:guide
+       position="128,224"
+       orientation="1,0"
+       id="guide136"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="72,128"
+       orientation="0,-1"
+       id="guide138"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.2922293,-16)">
+    <path
+       id="path14"
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="M 131.15942 76.007812 A 4 4 0 0 0 131.12817 76.021484 C 125.66532 75.905296 120.81431 77.490547 117.0227 80.439453 C 113.16102 83.442838 110.40027 87.653552 108.30395 92.507812 C 104.11131 102.21633 102.36597 114.75207 100.91918 128.08789 C 99.472402 141.42371 98.397057 155.54279 96.079339 167.95312 C 95.723871 169.8565 95.326323 171.69738 94.905511 173.50586 A 20 20 0 0 0 87.292229 172 A 20 20 0 0 0 67.292229 192 A 20 20 0 0 0 69.913323 201.79883 C 67.955524 202.10805 65.949684 202.40069 63.884026 202.63281 C 54.039437 203.73909 43.669602 204.00586 39.292229 204.00586 L 7.2922293 204.00586 A 4 4 0 0 0 3.2922293 208.00586 A 4 4 0 0 0 7.2922293 212.00586 L 39.292229 212.00586 C 43.981871 212.00586 54.463418 211.74119 64.778557 210.58203 C 68.791239 210.13111 72.758542 209.54217 76.395745 208.76172 A 20 20 0 0 0 87.292229 212 A 20 20 0 0 0 107.29223 192 A 20 20 0 0 0 101.96801 178.41797 C 102.71811 175.50035 103.37042 172.49619 103.94457 169.42188 C 106.37989 156.38189 107.4457 142.10093 108.87231 128.95117 C 110.29891 115.80144 112.15864 103.76351 115.64965 95.679688 C 117.39516 91.637777 119.49581 88.649309 121.93285 86.753906 C 124.36992 84.858504 127.15448 83.872529 131.15942 84.003906 A 4 4 0 0 0 131.29223 83.955078 A 4 4 0 0 0 131.42309 84.003906 C 135.428 83.872529 138.21259 84.858504 140.64965 86.753906 C 143.08671 88.649309 145.18737 91.637777 146.93285 95.679688 C 150.42386 103.76351 152.28359 115.80144 153.7102 128.95117 C 155.1368 142.10093 156.20458 156.38189 158.63989 169.42188 C 161.07519 182.46186 164.79502 194.38758 172.32934 202.69336 C 175.0246 205.6646 178.75996 206.89479 183.15356 208.05078 C 187.54713 209.20677 192.64637 210.00245 197.80395 210.58203 C 208.11909 211.74119 218.60258 212.00586 223.29223 212.00586 L 255.29223 212.00586 A 4 4 0 0 0 259.29223 208.00586 A 4 4 0 0 0 255.29223 204.00586 L 223.29223 204.00586 C 218.91485 204.00586 208.54307 203.73909 198.69848 202.63281 C 193.77617 202.07967 188.96843 201.30892 185.18871 200.31445 C 181.40902 199.31998 178.70675 197.81623 178.25512 197.31836 C 172.46689 190.93745 168.82087 180.36348 166.50317 167.95312 C 164.18544 155.54279 163.11011 141.42371 161.66332 128.08789 C 160.21653 114.75207 158.47117 102.21633 154.27856 92.507812 C 152.18224 87.653552 149.42147 83.442838 145.55981 80.439453 C 141.77653 77.497045 136.93758 75.915076 131.48949 76.023438 A 4 4 0 0 0 131.42309 76.007812 C 131.37809 76.006314 131.33709 76.014872 131.29223 76.013672 C 131.24673 76.014972 131.20503 76.006314 131.15942 76.007812 z " />
+  </g>
+  <metadata
+     id="metadata134">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

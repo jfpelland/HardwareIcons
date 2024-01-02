@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="246"
+   height="246"
+   viewBox="0 0 246 246"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="WaterDrop.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="3.0182099"
+     inkscape:cx="49.367011"
+     inkscape:cy="129.87831"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       empspacing="8"
+       dotted="true"
+       originx="-45.509857"
+       originy="-6.0014645" />
+    <sodipodi:guide
+       position="82.490143,172.00147"
+       orientation="1,0"
+       id="guide136"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="114.49014,124.00147"
+       orientation="0,-1"
+       id="guide138"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-45.509856,-6.0014645)">
+    <path
+       id="path244"
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 169.35165 6.3510739 A 6.0006 6.0006 0 0 0 166.02939 6.8256832 A 6.0006 6.0006 0 0 0 162.76181 10.546386 C 153.71966 40.333643 129.48889 83.517688 107.24423 114.92334 C 96.606599 129.94184 89.300471 144.48005 86.871184 159.58936 C 84.441898 174.69867 87.123495 190.1903 95.56845 206.0874 C 108.00743 229.50298 137.31049 251.71045 168.504 251.71045 C 200.15216 251.71045 229.03563 229.43704 241.43954 206.0874 C 248.87894 192.08322 251.87419 178.40784 250.79111 165.00537 C 249.41512 147.97875 241.66821 131.73035 229.76376 114.92334 C 207.5191 83.517689 183.28835 40.333644 174.24618 10.546386 A 6.0006 6.0006 0 0 0 169.35165 6.3510739 z M 168.504 30.013183 C 180.33406 59.7077 200.70483 94.658642 219.97079 121.85889 C 231.18146 137.6864 237.69748 151.95609 238.83017 165.97217 C 239.72179 177.00533 237.41016 188.09216 230.84189 200.45654 C 220.70043 219.54722 194.2353 239.71045 168.504 239.71045 C 143.33401 239.71045 116.27255 219.48127 106.16611 200.45654 C 98.709649 186.42023 96.69987 174.05093 98.71884 161.49365 C 100.73781 148.93637 107.01962 136.00198 117.0372 121.85889 C 136.30316 94.658642 156.67392 59.7077 168.504 30.013183 z " />
+  </g>
+  <metadata
+     id="metadata134">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
