@@ -4,6 +4,8 @@
 #    (See accompanying file LICENSE_1_0.txt or copy at
 #          https://www.boost.org/LICENSE_1_0.txt)
 
+import os
+
 from glyphDefinitions import *
 
 maxColumnNum = 8
@@ -14,9 +16,10 @@ def addListSub(offset: int, paths: list[str]) -> str:
     row2 = '|'
     row3 = '|'
     for i, path in enumerate(paths):
+        basename = os.path.basename(path)
         row1 += f' `U+{(offset+i):04X}` |'
         row2 += ' :---: |'
-        row3 += f' <img src="{path}" width="{iconWidth}"> |'
+        row3 += f' <img src="{path}" title="{basename}" alt="{basename}" width="{iconWidth}"/> |'
     return f'{row1}\n{row2}\n{row3}'
     
 def addList(title: str, offset: int, paths: list[str]) -> str:
