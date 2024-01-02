@@ -14,7 +14,7 @@ def addListSub(offset: int, paths: list[str]) -> str:
     row2 = '|'
     row3 = '|'
     for i, path in enumerate(paths):
-        row1 += f' `0x{(offset+i):04x}` |'
+        row1 += f' `U+{(offset+i):04X}` |'
         row2 += ' :---: |'
         row3 += f' <img src="{path}" width="{iconWidth}"> |'
     return f'{row1}\n{row2}\n{row3}'
