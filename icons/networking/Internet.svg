@@ -63,7 +63,7 @@
      transform="translate(-45,-53)">
     <path
        id="path14"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#7f7f7f7f;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="M 112 61 C 110 61 109 62.000002 109 64 L 109 96 C 109 97.999998 110 99 112 99 L 125 99 L 125 133 L 64 133 C 62.000002 133 61 134 61 136 L 61 173 L 48 173 C 46.000002 173 45 174 45 176 L 45 208 C 45 210 46.000002 211 48 211 L 80 211 C 81.999998 211 83 210 83 208 L 83 176 C 83 174 81.999998 173 80 173 L 67 173 L 67 139 L 125 139 L 125 173 L 112 173 C 110 173 109 174 109 176 L 109 208 C 109 210 110 211 112 211 L 144 211 C 146 211 147 210 147 208 L 147 176 C 147 174 146 173 144 173 L 131 173 L 131 139 L 189 139 L 189 173 L 176 173 C 174 173 173 174 173 176 L 173 208 C 173 210 174 211 176 211 L 208 211 C 210 211 211 210 211 208 L 211 176 C 211 174 210 173 208 173 L 195 173 L 195 136 C 195 134 194 133 192 133 L 131 133 L 131 99 L 144 99 C 146 99 147 97.999998 147 96 L 147 64 C 147 62.000002 146 61 144 61 L 112 61 z " />
   </g>
   <metadata
