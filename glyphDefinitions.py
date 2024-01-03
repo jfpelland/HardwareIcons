@@ -70,20 +70,20 @@ netSuffixes = ['', 'Download', 'Upload', 'UpDown', 'UpDownAlt']
 networkSVGs = [f'{networkFolder}{r[0]+r[1]}.svg' for r in itertools.product(netTypes, netSuffixes)]
 
 statsSVGs = [
-	f'{statsFolder}Clock.svg',
-	f'{statsFolder}Timer.svg',
-	f'{statsFolder}BarGraph.svg',
-	f'{statsFolder}Graph.svg',
-	f'{statsFolder}0.1_Percentile.svg',
-	f'{statsFolder}1.0_Percentile.svg',
-	f'{statsFolder}50_Percentile.svg',
-	f'{statsFolder}99.0_Percentile.svg',
-	f'{statsFolder}99.9_Percentile.svg',
+    f'{statsFolder}Clock.svg',
+    f'{statsFolder}Timer.svg',
+    f'{statsFolder}BarGraph.svg',
+    f'{statsFolder}Graph.svg',
+    f'{statsFolder}0.1_Percentile.svg',
+    f'{statsFolder}1.0_Percentile.svg',
+    f'{statsFolder}50_Percentile.svg',
+    f'{statsFolder}99.0_Percentile.svg',
+    f'{statsFolder}99.9_Percentile.svg',
 ]
 
 fanSVGs = [
-	f'{miscFolder}Fan.svg',
-	f'{miscFolder}FanBlades.svg',
+    f'{miscFolder}Fan.svg',
+    f'{miscFolder}FanBlades.svg',
 ]
 
 waterPumpSVGs = [
@@ -91,22 +91,22 @@ waterPumpSVGs = [
 ]
 
 binSVGs = [
-	f'{miscFolder}RecyclingBin.svg',
-	f'{miscFolder}RecyclingBinFull.svg',
+    f'{miscFolder}RecyclingBin.svg',
+    f'{miscFolder}RecyclingBinFull.svg',
 ]
 
 miscSVGs = [
-	f'{miscFolder}Thermometer.svg',
-	f'{miscFolder}Flame.svg',
-	f'{miscFolder}AmpsDC.svg',
-	f'{miscFolder}VoltsDC.svg',
-	f'{miscFolder}Power.svg',
-	f'{miscFolder}PowerFilled.svg',
-	f'{miscFolder}WaterDrop.svg',
-	f'{miscFolder}WaterDropFilled.svg',
-	f'{miscFolder}WaterDrops.svg',
-	f'{miscFolder}WaterDropsFilled.svg',
-	f'{miscFolder}WaterFlow.svg',
+    f'{miscFolder}Thermometer.svg',
+    f'{miscFolder}Flame.svg',
+    f'{miscFolder}AmpsDC.svg',
+    f'{miscFolder}VoltsDC.svg',
+    f'{miscFolder}Power.svg',
+    f'{miscFolder}PowerFilled.svg',
+    f'{miscFolder}WaterDrop.svg',
+    f'{miscFolder}WaterDropFilled.svg',
+    f'{miscFolder}WaterDrops.svg',
+    f'{miscFolder}WaterDropsFilled.svg',
+    f'{miscFolder}WaterFlow.svg',
 ]
 
 cpuCoreSVGs = []
