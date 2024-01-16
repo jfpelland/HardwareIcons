@@ -1,7 +1,7 @@
 # HardwareIcons
 A set of svg icons made for representing computer hardware as well as a few other related icons. This was created for my own Rainmeter skins but I'm making it available for others to use.
 
-A detailed list of all icons included, as well as their Unicode code points, can be found in FontTable.md.
+A detailed list of all icons included, as well as their Unicode code points, can be found in [FontTable.md.](./FontTable.md)
 
 ## Building
 The font files can be built using FontForge and the Python files found in this repository. FontForge is required.
