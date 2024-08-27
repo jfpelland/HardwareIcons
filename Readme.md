@@ -34,5 +34,8 @@ For more information on the Boost Software License, see LICENSE_1_0.txt or visit
 Some icons include text. The font used for that text is the Azeret font, which can be found here: https://github.com/displaay/Azeret/
 
 ## Changelog
-Version 1.0:
+Version 1.1.0:
+* Add icons for m.2 and SATA drives.
+
+Version 1.0.0:
 * Initial release.
