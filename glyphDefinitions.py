@@ -13,6 +13,8 @@ gpuFolder = f'{baseFolder}gpu/'
 moboFolder = f'{baseFolder}motherboard/'
 ramFolder = f'{baseFolder}ram/'
 logicalDrivesFolder = f'{baseFolder}drives/logical/'
+mdot2DrivesFolder = f'{baseFolder}drives/m.2/'
+sataDrivesFolder = f'{baseFolder}drives/sata/'
 networkFolder = f'{baseFolder}networking/'
 statsFolder = f'{baseFolder}stats/'
 miscFolder = f'{baseFolder}misc/'
@@ -22,6 +24,9 @@ gpuOffset = 0xf010
 moboOffset = 0xf020
 ramOffset = 0xf030
 logicalDrivesOffset = 0xf080
+mdot2DrivesOffset = 0xf200
+mdot2SmallDrivesOffset = 0xf210
+sataDrivesOffset = 0xf220
 networkOffset = 0xf050
 statsOffset = 0xf070
 miscOffset = 0xf060
@@ -64,6 +69,14 @@ ramSVGs = [f'{ramFolder}RAM.svg', f'{ramFolder}RAMSingle.svg', f'{ramFolder}RAMS
 logicalDriveSVGs = [f'{logicalDrivesFolder}Drive.svg'] + \
     [f'{logicalDrivesFolder}Drive{icon}.svg' for icon in iconList]
 
+mdot2DriveSVGs = [f'{mdot2DrivesFolder}M.2_SSD.svg'] + \
+    [f'{mdot2DrivesFolder}M.2_SSD{icon}.svg' for icon in iconList]
+
+mdot2SmallDriveSVGs = [f'{mdot2DrivesFolder}M.2_Small_SSD.svg'] + \
+    [f'{mdot2DrivesFolder}M.2_Small_SSD{icon}.svg' for icon in iconList]
+
+sataDriveSVGs = [f'{sataDrivesFolder}SATAHDD.svg', f'{sataDrivesFolder}SATASSD.svg'] + \
+    [f'{sataDrivesFolder}SATA{icon}.svg' for icon in iconList]
 
 netTypes = ['Internet', 'Ethernet', 'Wifi']
 netSuffixes = ['', 'Download', 'Upload', 'UpDown', 'UpDownAlt']

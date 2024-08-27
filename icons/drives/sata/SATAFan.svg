@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="236"
+   height="236"
+   viewBox="0 0 236 236"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="SATAFan.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="1.7457627"
+     inkscape:cx="37.519418"
+     inkscape:cy="96.23301"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"><inkscape:grid
+       type="xygrid"
+       id="grid132"
+       empspacing="8"
+       dotted="true"
+       originx="-34"
+       originy="-10" /><sodipodi:guide
+       position="94,166"
+       orientation="1,0"
+       id="guide136"
+       inkscape:locked="false" /></sodipodi:namedview><defs
+     id="defs2" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34,-10)"><path
+       id="path21"
+       style="color:#7f7f7f7f;fill:#7f7f7f7f;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 64,10 c -3.313568,3.31e-4 -5.999669,2.686432 -6,6 v 224 c 3.31e-4,3.31357 2.686432,5.99967 6,6 h 32 24 c 3.31357,-3.3e-4 5.99967,-2.68643 6,-6 v -2 h 44 v 2 c 3.3e-4,3.31357 2.68643,5.99967 6,6 h 8 c 3.31357,-3.3e-4 5.99967,-2.68643 6,-6 v -2 h 20 v 2 c 3.3e-4,3.31357 2.68643,5.99967 6,6 h 24 c 3.31357,-3.3e-4 5.99967,-2.68643 6,-6 V 16 c -3.3e-4,-3.313568 -2.68643,-5.999669 -6,-6 z m 6,12 h 164 v 212 h -12 v -2 c -3.3e-4,-3.31357 -2.68643,-5.99967 -6,-6 h -31 -1 -8 -56 c -3.31357,3.3e-4 -5.99967,2.68643 -6,6 v 2 H 96 70 Z m 95.33984,37.869141 c -5.48793,0.185291 -10.39663,3.123043 -12.16796,7.917968 -3.91551,10.57183 -6.7099,21.772644 -6.83204,32.601561 5.8795,-1.214606 11.94134,-0.483019 17.30664,1.93945 7.51926,-10.100826 17.91325,-19.021037 29.47657,-25.056636 1.52976,-0.798606 3.21231,-3.520468 -0.14649,-6.019531 -6.63797,-4.937389 -14.26228,-8.184185 -22.05078,-10.619141 -1.86294,-0.582759 -3.75663,-0.825435 -5.58594,-0.763671 z m -39.54492,3.785156 c -0.68049,-0.0581 -1.49611,0.07762 -2.45508,0.492187 -7.59888,3.282146 -14.21851,8.258538 -20.22656,13.789063 -5.738468,5.285917 -7.033671,13.711144 -2.68359,18.951172 7.20648,8.674671 15.50238,16.697331 24.82031,22.218751 1.89044,-5.69922 5.55346,-10.59007 10.33203,-14.02539 -4.98607,-11.556676 -7.51157,-25.021659 -6.96094,-38.052736 0.0549,-1.289258 -0.7847,-3.198763 -2.82617,-3.373047 z m 80.19336,35.107422 c -0.41809,0.02223 -0.83796,0.06874 -1.25781,0.140625 -11.11694,1.899516 -22.21585,5.075306 -31.65625,10.382816 3.99513,4.48731 6.39306,10.10476 6.98047,15.96289 12.50532,1.45888 25.42733,6.00722 36.43359,13 1.45621,0.92378 4.65518,1.0217 5.13867,-3.13867 0.96058,-8.21684 -0.0357,-16.44044 -1.82226,-24.40626 -1.60591,-7.14089 -7.54503,-12.275112 -13.81641,-11.941401 z m -53.99023,8.828121 c -11.26978,0 -20.4043,9.14094 -20.4043,20.41016 0,11.27259 9.13452,20.41016 20.4043,20.41016 11.27551,0 20.41601,-9.13757 20.41601,-20.41016 3.4e-4,-11.26922 -9.14017,-20.41016 -20.41601,-20.41016 z M 85.375,117.24023 c -1.335481,0.11147 -2.699771,1.04821 -3.001953,3.64844 -0.960235,8.21616 0.03748,16.44077 1.830078,24.40625 1.706898,7.61696 8.350421,12.95291 15.068359,11.80274 11.116596,-1.89985 22.216526,-5.07564 31.656246,-10.38282 -3.99513,-4.4873 -6.39501,-10.10671 -6.98242,-15.96484 -12.50532,-1.45956 -25.425708,-6.00493 -36.431638,-12.99805 -0.546079,-0.34641 -1.337383,-0.57859 -2.138672,-0.51172 z m 93.37695,19.6543 c -1.89044,5.69551 -5.55541,10.58879 -10.33398,14.02344 4.98641,11.55701 7.51157,25.02132 6.96094,38.05273 -0.0732,1.71901 1.4471,4.53914 5.28906,2.88086 7.59281,-3.28248 14.21906,-8.25854 20.2207,-13.78906 5.73847,-5.28592 7.03367,-13.71114 2.6836,-18.95117 -7.20042,-8.67164 -15.50239,-16.69842 -24.82032,-22.2168 z m -38.39062,16.77735 c -7.51285,10.09813 -17.90705,19.02029 -29.4707,25.05859 -1.52943,0.79557 -3.21198,3.51656 0.14648,6.01562 6.63831,4.93739 14.26067,8.18385 22.04883,10.61914 7.45178,2.33071 15.39407,-0.75911 17.75586,-7.15234 3.9155,-10.57183 6.71184,-21.77156 6.83398,-32.60351 -5.87916,1.21461 -11.94881,0.48227 -17.31445,-1.9375 z" /><g
+       id="g5169"
+       transform="matrix(0.33739891,0,0,0.33739231,65.214313,39.355666)">
+	
+	
+	
+	
+	
+	
+	
+	
+</g></g><metadata
+     id="metadata134"><rdf:RDF><cc:Work
+         rdf:about=""><cc:license
+           rdf:resource="http://scripts.sil.org/OFL" /></cc:Work><cc:License
+         rdf:about="http://scripts.sil.org/OFL"><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" /></cc:License></rdf:RDF></metadata><style
+     type="text/css"
+     id="style5151">
+	.st0{fill:#7f7f7f7f;}
+</style></svg>

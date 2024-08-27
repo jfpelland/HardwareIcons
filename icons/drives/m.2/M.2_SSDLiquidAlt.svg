@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="253"
+   height="253"
+   viewBox="0 0 253 253"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="M.2_SSDLiquidAlt.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="2.1341967"
+     inkscape:cx="9.1369273"
+     inkscape:cy="123.23138"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"><inkscape:grid
+       type="xygrid"
+       id="grid132"
+       empspacing="8"
+       dotted="true"
+       originx="-66"
+       originy="-2" /><sodipodi:guide
+       position="62,175"
+       orientation="1,0"
+       id="guide136"
+       inkscape:locked="false" /><sodipodi:guide
+       position="94,127"
+       orientation="0,-1"
+       id="guide138"
+       inkscape:locked="false" /></sodipodi:namedview><defs
+     id="defs2" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-66,-2)"><path
+       id="path21"
+       style="color:#7f7f7f7f;fill:#7f7f7f7f;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="m 136.5,2 c -3.31357,3.313e-4 -5.99967,2.686432 -6,6 v 230 c 0.0806,2.47113 1.66855,4.63989 4,5.46289 V 253 c 1.1e-4,1.10452 0.89548,1.99989 2,2 h 8 8 c 1.10452,-1.1e-4 1.99989,-0.89548 2,-2 v -9 h 12 v 9 c 1.1e-4,1.10452 0.89548,1.99989 2,2 h 8 8 8 8 8 8 8 8 8 8 c 1.10452,-1.1e-4 1.99989,-0.89548 2,-2 v -9.53711 c 2.33145,-0.823 3.91944,-2.99176 4,-5.46289 V 8 c -3.3e-4,-3.313568 -2.68643,-5.9996687 -6,-6 h -44 c -3.31357,3.313e-4 -5.99967,2.686432 -6,6 v 10 h -12 V 8 c -3.3e-4,-3.313568 -2.68643,-5.9996687 -6,-6 z m 6,12 h 32 v 10 c 3.3e-4,3.313568 2.68643,5.999669 6,6 h 24 c 3.31357,-3.31e-4 5.99967,-2.686432 6,-6 V 14 h 32 v 218 h -100 z m 47.42188,67.105469 a 1.1182969,1.1182969 0 0 0 -1.06836,0.792969 c -1.68514,5.551267 -6.20205,13.600243 -10.34766,19.453122 -1.98247,2.79891 -3.34416,5.50838 -3.79688,8.32422 -0.45274,2.81583 0.0473,5.70336 1.6211,8.66602 2.31818,4.36381 7.77846,8.50195 13.5918,8.50195 5.89808,0 11.28211,-4.15043 13.59374,-8.50195 1.38644,-2.60988 1.94403,-5.15853 1.74219,-7.65625 -0.25644,-3.17316 -1.70138,-6.20176 -3.91992,-9.33399 -4.14562,-5.852878 -8.66058,-13.901854 -10.3457,-19.453122 a 1.1182969,1.1182969 0 0 0 -1.07031,-0.792969 z M 222.125,117.68164 a 1.1182969,1.1182969 0 0 0 -1.07031,0.79492 c -1.68514,5.55127 -6.20011,13.5983 -10.34571,19.45117 -1.98246,2.79892 -3.34609,5.50839 -3.79882,8.32422 -0.45274,2.81582 0.0472,5.70337 1.62109,8.66602 2.31818,4.36381 7.78042,8.50195 13.59375,8.50195 5.89807,0 11.28016,-4.15042 13.5918,-8.50195 1.38644,-2.60986 1.94403,-5.15851 1.74218,-7.65625 -0.25643,-3.17314 -1.69941,-6.20175 -3.91796,-9.33399 -4.14561,-5.85286 -8.66059,-13.8999 -10.34571,-19.45117 a 1.1182969,1.1182969 0 0 0 -1.07031,-0.79492 z m -59.25195,12.47461 a 1.1182969,1.1182969 0 0 0 -1.07032,0.79297 c -1.68513,5.55126 -6.2001,13.60025 -10.3457,19.45312 -1.98247,2.79891 -3.34415,5.50839 -3.79687,8.32422 -0.45274,2.81582 0.0472,5.70143 1.62109,8.66406 2.31818,4.36382 7.77845,8.50391 13.5918,8.50391 5.89806,0 11.28211,-4.15237 13.59375,-8.50391 1.38643,-2.60985 1.94403,-5.15851 1.74218,-7.65624 -0.25644,-3.17315 -1.6994,-6.19981 -3.91796,-9.33204 -4.1456,-5.85287 -8.66253,-13.90186 -10.34766,-19.45312 a 1.1182969,1.1182969 0 0 0 -1.07031,-0.79297 z M 138.5,244 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 24,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z" /></g><metadata
+     id="metadata134"><rdf:RDF><cc:Work
+         rdf:about=""><cc:license
+           rdf:resource="http://scripts.sil.org/OFL" /></cc:Work><cc:License
+         rdf:about="http://scripts.sil.org/OFL"><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" /></cc:License></rdf:RDF></metadata><style
+     type="text/css"
+     id="style5151">
+	.st0{fill:#7f7f7f7f;}
+</style></svg>

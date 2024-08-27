@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="236"
+   height="236"
+   viewBox="0 0 236 236"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="SATAHDD.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="2.4688813"
+     inkscape:cx="28.960485"
+     inkscape:cy="70.477264"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       empspacing="8"
+       dotted="true"
+       originx="-34"
+       originy="-10" />
+    <sodipodi:guide
+       position="94,166"
+       orientation="1,0"
+       id="guide136"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="126,118"
+       orientation="0,-1"
+       id="guide138"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34,-10)">
+    <path
+       id="path14"
+       style="color:#7f7f7f7f;fill:#7f7f7f7f;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 64,10 a 6.0006,6.0006 0 0 0 -6,6 v 224 a 6.0006,6.0006 0 0 0 6,6 h 32 24 a 6.0006,6.0006 0 0 0 6,-6 v -2 h 44 v 2 a 6.0006,6.0006 0 0 0 6,6 h 8 a 6.0006,6.0006 0 0 0 6,-6 v -2 h 20 v 2 a 6.0006,6.0006 0 0 0 6,6 h 24 a 6.0006,6.0006 0 0 0 6,-6 V 16 a 6.0006,6.0006 0 0 0 -6,-6 z m 6,12 h 164 v 212 h -12 v -2 a 6.0006,6.0006 0 0 0 -6,-6 h -31 -1 -8 -56 a 6.0006,6.0006 0 0 0 -6,6 v 2 H 96 70 Z m 10,8 a 2.0002,2.0002 0 0 0 -2,2 v 40 a 2.0002,2.0002 0 0 0 2,2 h 8 a 2.0002,2.0002 0 0 0 2,-2 C 90,60.22227 91.979767,52.848361 96.414062,48.414062 100.84836,43.979767 108.22227,42 120,42 a 2.0002,2.0002 0 0 0 2,-2 v -8 a 2.0002,2.0002 0 0 0 -2,-2 z m 118,0 a 4.0004,4.0004 0 0 0 -4,4 v 24 a 4.0004,4.0004 0 0 0 4,4 h 24 a 4.0004,4.0004 0 0 0 4,-4 V 34 a 4.0004,4.0004 0 0 0 -4,-4 z m -89.8457,18.253906 c -0.80693,0.05428 -1.58472,0.26185 -2.33594,0.550782 -2.00326,0.770484 -3.8872,2.15478 -5.5293,3.796874 -1.642092,1.642098 -3.02834,3.527997 -3.798826,5.53125 -0.38524,1.001629 -0.624306,2.049473 -0.550781,3.152344 0.07353,1.102871 0.530478,2.278525 1.392578,3.140625 1.724203,1.724204 6.419699,5.666511 12.802739,10.939453 0.67856,0.560552 1.52647,1.250013 2.23828,1.835938 C 90.584587,90.588841 76,114.64272 76,142 c 0,41.86025 34.13974,76 76,76 41.86025,0 76,-34.13975 76,-76 0,-41.86026 -34.13975,-76 -76,-76 -8.04224,0 -15.79513,1.270637 -23.08008,3.603516 -2.01359,-2.461653 -4.07531,-4.987149 -5.86719,-7.15625 -5.27294,-6.38304 -9.2172,-11.076578 -10.9414,-12.800782 -0.8621,-0.8621 -2.03776,-1.319053 -3.14063,-1.392578 -0.27571,-0.01838 -0.54743,-0.01809 -0.8164,0 z M 152,78 c 35.35549,0 64,28.6445 64,64 0,35.35549 -28.64451,64 -64,64 -35.35551,0 -64,-28.64451 -64,-64 0,-24.62531 13.90425,-45.982646 34.28516,-56.685547 3.26632,2.660111 6.60452,5.374879 9.9414,8.076172 15.52376,12.566835 30.30469,24.392575 30.30469,24.392575 a 2.090264,2.090264 0 0 0 2.93945,-2.9375 c 0,0 -11.82769,-14.78292 -24.39453,-30.306638 -1.30347,-1.610168 -2.58951,-3.186397 -3.89648,-4.796874 C 141.93813,78.614169 146.89581,78 152,78 Z m 0,40.5 c -12.92078,0 -23.5,10.57922 -23.5,23.5 0,12.92078 10.57922,23.5 23.5,23.5 12.92078,0 23.5,-10.57922 23.5,-23.5 0,-12.92078 -10.57922,-23.5 -23.5,-23.5 z m 0,12 c 6.51272,0 11.5,4.98728 11.5,11.5 0,6.51272 -4.98728,11.5 -11.5,11.5 -6.51272,0 -11.5,-4.98728 -11.5,-11.5 0,-6.51272 4.98728,-11.5 11.5,-11.5 z" />
+  </g>
+  <metadata
+     id="metadata134">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

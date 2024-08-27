@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="236"
+   height="236"
+   viewBox="0 0 236 236"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="SATAWaterPump.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="1.7457627"
+     inkscape:cx="37.519418"
+     inkscape:cy="96.23301"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"><inkscape:grid
+       type="xygrid"
+       id="grid132"
+       empspacing="8"
+       dotted="true"
+       originx="-34"
+       originy="-10" /><sodipodi:guide
+       position="94,166"
+       orientation="1,0"
+       id="guide136"
+       inkscape:locked="false" /></sodipodi:namedview><defs
+     id="defs2" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34,-10)"><path
+       id="path20"
+       style="color:#7f7f7f7f;fill:#7f7f7f7f;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 64,10 c -3.313568,3.31e-4 -5.999669,2.686432 -6,6 v 224 c 3.31e-4,3.31357 2.686432,5.99967 6,6 h 32 24 c 3.31357,-3.3e-4 5.99967,-2.68643 6,-6 v -2 h 44 v 2 c 3.3e-4,3.31357 2.68643,5.99967 6,6 h 8 c 3.31357,-3.3e-4 5.99967,-2.68643 6,-6 v -2 h 20 v 2 c 3.3e-4,3.31357 2.68643,5.99967 6,6 h 24 c 3.31357,-3.3e-4 5.99967,-2.68643 6,-6 V 16 c -3.3e-4,-3.313568 -2.68643,-5.999669 -6,-6 z m 6,12 h 164 v 212 h -12 v -2 c -3.3e-4,-3.31357 -2.68643,-5.99967 -6,-6 h -31 -1 -8 -56 c -3.31357,3.3e-4 -5.99967,2.68643 -6,6 v 2 H 96 70 Z m 82.00586,31 C 110.62622,52.999999 76.999993,86.626223 77,128.00586 76.999993,169.3855 110.62621,203 152.00586,203 193.38551,203 227.00002,169.3855 227,128.00586 227,86.626224 193.38551,53 152.00586,53 Z m 0,7.146484 c 8.16243,0 15.98509,1.436803 23.22852,4.070313 -3.02716,1.7687 -5.91897,3.690292 -8.65821,5.755859 -6.30854,4.75604 -11.81511,10.260725 -16.38476,16.308594 -4.56921,6.047867 -8.20356,12.639152 -11.83594,19.23047 -4.7778,-2.99493 -9.55417,-5.986827 -13.85156,-9.781251 -4.29739,-3.794425 -8.11309,-8.388767 -11.26368,-13.660157 -1.33699,-2.237052 -2.55554,-4.597834 -3.64062,-7.066406 11.61151,-9.297558 26.35019,-14.857422 42.40625,-14.857422 z m 37.19531,11.078125 c 18.47012,12.116141 30.65235,33.005121 30.65235,56.781251 0,0.53333 -0.008,1.06534 -0.0195,1.5957 -2.53192,-2.22803 -5.15854,-4.29211 -7.86914,-6.18164 -6.48253,-4.51748 -13.42977,-8.04561 -20.60546,-10.51367 -7.17616,-2.46806 -14.58026,-3.8784 -21.98438,-5.28906 1.37753,-5.45975 2.75445,-10.918799 5.04297,-16.169924 2.28806,-5.251125 5.48754,-10.292851 9.53711,-14.91211 1.61504,-1.842097 3.36713,-3.615551 5.24609,-5.310547 z M 98.685547,85.996094 c 0.768631,3.610073 1.748263,7.129473 2.929683,10.539062 2.58295,7.457594 6.12863,14.385944 10.48047,20.591794 4.35138,6.2063 9.51095,11.68966 14.66992,17.17383 -4.33015,3.60929 -8.66107,7.21942 -13.60546,10.125 -4.94394,2.90603 -10.50295,5.10933 -16.500004,6.4707 -2.618148,0.59425 -5.321112,1.0255 -8.089844,1.29102 -2.859014,-7.5086 -4.423828,-15.65991 -4.423828,-24.18164 0,-15.87376 5.431275,-30.460054 14.539063,-42.009766 z m 54.521483,25.886716 c 8.92058,0 16.15039,7.21681 16.15039,16.11914 0,8.90232 -7.22981,16.11719 -16.15039,16.11719 -8.92058,0 -16.15234,-7.21487 -16.15234,-16.11719 0,-8.90233 7.23176,-16.11914 16.15234,-16.11914 z m 0,6.90821 c -5.0976,0 -9.23047,4.12376 -9.23047,9.21093 0,5.08717 4.13287,9.21094 9.23047,9.21094 5.09761,0 9.22852,-4.12377 9.22852,-9.21094 0,-5.08717 -4.13091,-9.21093 -9.22852,-9.21093 z m 34.32031,18.43164 c 2.12297,-0.007 4.25454,0.0695 6.39649,0.27539 5.71138,0.54943 11.50449,2.02735 17.1582,4.44336 2.21821,0.94793 4.41278,2.04277 6.57422,3.27734 -5.98867,22.96856 -23.68466,41.16799 -46.35742,47.86133 1.47011,-3.31338 2.72377,-6.67641 3.75781,-10.06641 2.30238,-7.54879 3.51409,-15.23345 3.64844,-22.80664 0.13476,-7.57365 -0.80868,-15.03491 -1.75196,-22.49805 3.518,-0.23719 7.03595,-0.47566 10.57422,-0.48632 z m -36.9082,16.97656 c 2.10163,5.22534 4.20149,10.45042 5.44336,16.04101 1.24145,5.59055 1.62403,11.54541 1.06836,17.65821 -0.23577,2.59099 -0.63982,5.21106 -1.21484,7.84179 -1.29379,0.0732 -2.5978,0.11329 -3.91016,0.11329 -23.47795,0 -44.14356,-11.87529 -56.324219,-29.95704 3.753791,0.40345 7.487459,0.57075 11.175779,0.50196 7.90531,-0.14739 15.60062,-1.36959 22.85938,-3.58203 7.25922,-2.21246 14.08155,-5.41506 20.90234,-8.61719 z" /></g><metadata
+     id="metadata134"><rdf:RDF><cc:Work
+         rdf:about=""><cc:license
+           rdf:resource="http://scripts.sil.org/OFL" /></cc:Work><cc:License
+         rdf:about="http://scripts.sil.org/OFL"><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" /></cc:License></rdf:RDF></metadata><style
+     type="text/css"
+     id="style5151">
+	.st0{fill:#7f7f7f7f;}
+</style></svg>

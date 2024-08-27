@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="253"
+   height="253"
+   viewBox="0 0 253 253"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="M.2_SSDFan.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="2.1341967"
+     inkscape:cx="9.1369273"
+     inkscape:cy="123.23138"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"><inkscape:grid
+       type="xygrid"
+       id="grid132"
+       empspacing="8"
+       dotted="true"
+       originx="-66"
+       originy="-2" /><sodipodi:guide
+       position="62,175"
+       orientation="1,0"
+       id="guide136"
+       inkscape:locked="false" /><sodipodi:guide
+       position="94,127"
+       orientation="0,-1"
+       id="guide138"
+       inkscape:locked="false" /></sodipodi:namedview><defs
+     id="defs2" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-66,-2)"><path
+       id="path22"
+       style="color:#7f7f7f7f;fill:#7f7f7f7f;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="m 136.5,2 c -3.31357,3.313e-4 -5.99967,2.686432 -6,6 v 230 c 0.0806,2.47113 1.66855,4.63989 4,5.46289 V 253 c 1.1e-4,1.10452 0.89548,1.99989 2,2 h 8 8 c 1.10452,-1.1e-4 1.99989,-0.89548 2,-2 v -9 h 12 v 9 c 1.1e-4,1.10452 0.89548,1.99989 2,2 h 8 8 8 8 8 8 8 8 8 8 c 1.10452,-1.1e-4 1.99989,-0.89548 2,-2 v -9.53711 c 2.33145,-0.823 3.91944,-2.99176 4,-5.46289 V 8 c -3.3e-4,-3.313568 -2.68643,-5.9996687 -6,-6 h -44 c -3.31357,3.313e-4 -5.99967,2.686432 -6,6 v 10 h -12 V 8 c -3.3e-4,-3.313568 -2.68643,-5.9996687 -6,-6 z m 6,12 h 32 v 10 c 3.3e-4,3.313568 2.68643,5.999669 6,6 h 24 c 3.31357,-3.31e-4 5.99967,-2.686432 6,-6 V 14 h 32 v 218 h -100 z m 58.57617,70.701172 c -3.52795,0.119116 -6.68355,2.007391 -7.82226,5.089844 -2.51712,6.796176 -4.31406,13.997534 -4.39258,20.958984 3.77968,-0.78082 7.67587,-0.31121 11.125,1.24609 4.83381,-6.49339 11.51566,-12.227391 18.94922,-16.107418 0.98342,-0.51339 2.06548,-2.2626 -0.0937,-3.869141 -4.26727,-3.174036 -9.16889,-5.260843 -14.17578,-6.826172 -1.19761,-0.374631 -2.41386,-0.531893 -3.58985,-0.492187 z m -25.42187,2.433594 c -0.43746,-0.03735 -0.96165,0.0499 -1.57813,0.316406 -4.88499,2.109951 -9.14158,5.309897 -13.0039,8.865234 -3.68902,3.39809 -4.52109,8.813054 -1.72461,12.181644 4.63274,5.57657 9.96498,10.73567 15.95507,14.28515 1.21529,-3.66378 3.57064,-6.80915 6.64258,-9.01758 -3.20533,-7.42929 -4.82859,-16.083811 -4.47461,-24.460932 0.0353,-0.828809 -0.50403,-2.057883 -1.8164,-2.169922 z m 51.55273,22.568354 c -0.26877,0.0143 -0.53869,0.0436 -0.80859,0.0898 -7.1466,1.22111 -14.28274,3.26381 -20.35156,6.67578 2.56829,2.8847 4.11065,6.49578 4.48828,10.26172 8.03914,0.93785 16.34641,3.86206 23.42187,8.35742 0.93614,0.59386 2.99192,0.65695 3.30274,-2.01758 0.61751,-5.28225 -0.0234,-10.56857 -1.17188,-15.68945 -1.03237,-4.59058 -4.84926,-7.89226 -8.88086,-7.67774 z m -34.70898,5.67579 c -7.24486,0 -13.11524,5.87659 -13.11524,13.12109 0,7.24667 5.87038,13.12109 13.11524,13.12109 7.24854,0 13.125,-5.87442 13.125,-13.12109 2.1e-4,-7.2445 -5.87624,-13.12109 -13.125,-13.12109 z m -42.82813,6.20507 c -0.85852,0.0717 -1.73543,0.67413 -1.92969,2.34571 -0.61729,5.28182 0.0234,10.56878 1.17579,15.68945 1.09729,4.89661 5.36882,8.32533 9.6875,7.58594 7.14638,-1.22133 14.28121,-3.26208 20.3496,-6.67383 -2.56829,-2.8847 -4.11065,-6.49773 -4.48828,-10.26367 -8.03914,-0.93829 -16.34468,-3.8599 -23.41992,-8.35547 -0.35105,-0.2227 -0.85988,-0.37112 -1.375,-0.32813 z m 60.02735,12.63477 c -1.21529,3.6614 -3.57064,6.80568 -6.64258,9.01367 3.20555,7.42951 4.82859,16.08555 4.47461,24.46289 -0.0471,1.10508 0.93056,2.9176 3.40039,1.85157 4.88109,-2.11017 9.13985,-5.30795 12.99804,-8.86329 3.68902,-3.39809 4.52304,-8.815 1.72657,-12.18359 -4.62884,-5.57463 -9.96694,-10.73372 -15.95703,-14.28125 z m -24.67969,10.78516 c -4.82969,6.49165 -11.51154,12.22566 -18.94531,16.10742 -0.98321,0.51144 -2.06527,2.2626 0.0937,3.86914 4.26748,3.17403 9.1691,5.26063 14.17578,6.82617 4.79043,1.49831 9.89577,-0.48967 11.41406,-4.59961 2.51711,-6.79618 4.31406,-13.99558 4.39258,-20.95898 -3.77946,0.78082 -7.68152,0.31143 -11.13086,-1.24414 z M 138.5,244 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 24,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z m 8,0 h 4 v 7 h -4 z" /><g
+       id="g5169"
+       transform="matrix(0.2168993,0,0,0.21689506,136.7092,71.514356)">
+	
+	
+	
+	
+	
+	
+	
+	
+</g></g><metadata
+     id="metadata134"><rdf:RDF><cc:Work
+         rdf:about=""><cc:license
+           rdf:resource="http://scripts.sil.org/OFL" /></cc:Work><cc:License
+         rdf:about="http://scripts.sil.org/OFL"><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" /></cc:License></rdf:RDF></metadata><style
+     type="text/css"
+     id="style5151">
+	.st0{fill:#7f7f7f7f;}
+</style></svg>
