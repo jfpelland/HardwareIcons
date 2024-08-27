@@ -64,33 +64,63 @@ A list of all icons included as well as the Unicode code point assigned to them 
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="./icons/ram/RAMFan.svg" title="RAMFan.svg" alt="RAMFan.svg" width="64"/> | <img src="./icons/ram/RAMWaterPump.svg" title="RAMWaterPump.svg" alt="RAMWaterPump.svg" width="64"/> | <img src="./icons/ram/RAMLiquid.svg" title="RAMLiquid.svg" alt="RAMLiquid.svg" width="64"/> | <img src="./icons/ram/RAMLiquidAlt.svg" title="RAMLiquidAlt.svg" alt="RAMLiquidAlt.svg" width="64"/> | <img src="./icons/ram/RAMFlow.svg" title="RAMFlow.svg" alt="RAMFlow.svg" width="64"/> |
 
-### Drives (./icons/drives/)
+### Logical Drives (./icons/drives/logical/)
 
 | `U+F080` | `U+F081` | `U+F082` | `U+F083` | `U+F084` | `U+F085` | `U+F086` | `U+F087` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/drives/Drive.svg" title="Drive.svg" alt="Drive.svg" width="64"/> | <img src="./icons/drives/DriveTemp.svg" title="DriveTemp.svg" alt="DriveTemp.svg" width="64"/> | <img src="./icons/drives/DriveHotspot.svg" title="DriveHotspot.svg" alt="DriveHotspot.svg" width="64"/> | <img src="./icons/drives/DriveAmps.svg" title="DriveAmps.svg" alt="DriveAmps.svg" width="64"/> | <img src="./icons/drives/DriveVolts.svg" title="DriveVolts.svg" alt="DriveVolts.svg" width="64"/> | <img src="./icons/drives/DrivePower.svg" title="DrivePower.svg" alt="DrivePower.svg" width="64"/> | <img src="./icons/drives/DriveFan.svg" title="DriveFan.svg" alt="DriveFan.svg" width="64"/> | <img src="./icons/drives/DriveWaterPump.svg" title="DriveWaterPump.svg" alt="DriveWaterPump.svg" width="64"/> |
+| <img src="./icons/drives/logical/Drive.svg" title="Drive.svg" alt="Drive.svg" width="64"/> | <img src="./icons/drives/logical/DriveTemp.svg" title="DriveTemp.svg" alt="DriveTemp.svg" width="64"/> | <img src="./icons/drives/logical/DriveHotspot.svg" title="DriveHotspot.svg" alt="DriveHotspot.svg" width="64"/> | <img src="./icons/drives/logical/DriveAmps.svg" title="DriveAmps.svg" alt="DriveAmps.svg" width="64"/> | <img src="./icons/drives/logical/DriveVolts.svg" title="DriveVolts.svg" alt="DriveVolts.svg" width="64"/> | <img src="./icons/drives/logical/DrivePower.svg" title="DrivePower.svg" alt="DrivePower.svg" width="64"/> | <img src="./icons/drives/logical/DriveFan.svg" title="DriveFan.svg" alt="DriveFan.svg" width="64"/> | <img src="./icons/drives/logical/DriveWaterPump.svg" title="DriveWaterPump.svg" alt="DriveWaterPump.svg" width="64"/> |
 
 | `U+F088` | `U+F089` | `U+F08A` |
 | :---: | :---: | :---: |
-| <img src="./icons/drives/DriveLiquid.svg" title="DriveLiquid.svg" alt="DriveLiquid.svg" width="64"/> | <img src="./icons/drives/DriveLiquidAlt.svg" title="DriveLiquidAlt.svg" alt="DriveLiquidAlt.svg" width="64"/> | <img src="./icons/drives/DriveFlow.svg" title="DriveFlow.svg" alt="DriveFlow.svg" width="64"/> |
+| <img src="./icons/drives/logical/DriveLiquid.svg" title="DriveLiquid.svg" alt="DriveLiquid.svg" width="64"/> | <img src="./icons/drives/logical/DriveLiquidAlt.svg" title="DriveLiquidAlt.svg" alt="DriveLiquidAlt.svg" width="64"/> | <img src="./icons/drives/logical/DriveFlow.svg" title="DriveFlow.svg" alt="DriveFlow.svg" width="64"/> |
 
-### Drive Letters (./icons/drives/letters)
+### Drive Letters (./icons/drives/logical/letters)
 
 | `U+F090` | `U+F091` | `U+F092` | `U+F093` | `U+F094` | `U+F095` | `U+F096` | `U+F097` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/drives/letters/DriveA.svg" title="DriveA.svg" alt="DriveA.svg" width="64"/> | <img src="./icons/drives/letters/DriveB.svg" title="DriveB.svg" alt="DriveB.svg" width="64"/> | <img src="./icons/drives/letters/DriveC.svg" title="DriveC.svg" alt="DriveC.svg" width="64"/> | <img src="./icons/drives/letters/DriveD.svg" title="DriveD.svg" alt="DriveD.svg" width="64"/> | <img src="./icons/drives/letters/DriveE.svg" title="DriveE.svg" alt="DriveE.svg" width="64"/> | <img src="./icons/drives/letters/DriveF.svg" title="DriveF.svg" alt="DriveF.svg" width="64"/> | <img src="./icons/drives/letters/DriveG.svg" title="DriveG.svg" alt="DriveG.svg" width="64"/> | <img src="./icons/drives/letters/DriveH.svg" title="DriveH.svg" alt="DriveH.svg" width="64"/> |
+| <img src="./icons/drives/logical/letters/driveA.svg" title="driveA.svg" alt="driveA.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveB.svg" title="driveB.svg" alt="driveB.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveC.svg" title="driveC.svg" alt="driveC.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveD.svg" title="driveD.svg" alt="driveD.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveE.svg" title="driveE.svg" alt="driveE.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveF.svg" title="driveF.svg" alt="driveF.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveG.svg" title="driveG.svg" alt="driveG.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveH.svg" title="driveH.svg" alt="driveH.svg" width="64"/> |
 
 | `U+F098` | `U+F099` | `U+F09A` | `U+F09B` | `U+F09C` | `U+F09D` | `U+F09E` | `U+F09F` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/drives/letters/DriveI.svg" title="DriveI.svg" alt="DriveI.svg" width="64"/> | <img src="./icons/drives/letters/DriveJ.svg" title="DriveJ.svg" alt="DriveJ.svg" width="64"/> | <img src="./icons/drives/letters/DriveK.svg" title="DriveK.svg" alt="DriveK.svg" width="64"/> | <img src="./icons/drives/letters/DriveL.svg" title="DriveL.svg" alt="DriveL.svg" width="64"/> | <img src="./icons/drives/letters/DriveM.svg" title="DriveM.svg" alt="DriveM.svg" width="64"/> | <img src="./icons/drives/letters/DriveN.svg" title="DriveN.svg" alt="DriveN.svg" width="64"/> | <img src="./icons/drives/letters/DriveO.svg" title="DriveO.svg" alt="DriveO.svg" width="64"/> | <img src="./icons/drives/letters/DriveP.svg" title="DriveP.svg" alt="DriveP.svg" width="64"/> |
+| <img src="./icons/drives/logical/letters/driveI.svg" title="driveI.svg" alt="driveI.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveJ.svg" title="driveJ.svg" alt="driveJ.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveK.svg" title="driveK.svg" alt="driveK.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveL.svg" title="driveL.svg" alt="driveL.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveM.svg" title="driveM.svg" alt="driveM.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveN.svg" title="driveN.svg" alt="driveN.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveO.svg" title="driveO.svg" alt="driveO.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveP.svg" title="driveP.svg" alt="driveP.svg" width="64"/> |
 
 | `U+F0A0` | `U+F0A1` | `U+F0A2` | `U+F0A3` | `U+F0A4` | `U+F0A5` | `U+F0A6` | `U+F0A7` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="./icons/drives/letters/DriveQ.svg" title="DriveQ.svg" alt="DriveQ.svg" width="64"/> | <img src="./icons/drives/letters/DriveR.svg" title="DriveR.svg" alt="DriveR.svg" width="64"/> | <img src="./icons/drives/letters/DriveS.svg" title="DriveS.svg" alt="DriveS.svg" width="64"/> | <img src="./icons/drives/letters/DriveT.svg" title="DriveT.svg" alt="DriveT.svg" width="64"/> | <img src="./icons/drives/letters/DriveU.svg" title="DriveU.svg" alt="DriveU.svg" width="64"/> | <img src="./icons/drives/letters/DriveV.svg" title="DriveV.svg" alt="DriveV.svg" width="64"/> | <img src="./icons/drives/letters/DriveW.svg" title="DriveW.svg" alt="DriveW.svg" width="64"/> | <img src="./icons/drives/letters/DriveX.svg" title="DriveX.svg" alt="DriveX.svg" width="64"/> |
+| <img src="./icons/drives/logical/letters/driveQ.svg" title="driveQ.svg" alt="driveQ.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveR.svg" title="driveR.svg" alt="driveR.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveS.svg" title="driveS.svg" alt="driveS.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveT.svg" title="driveT.svg" alt="driveT.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveU.svg" title="driveU.svg" alt="driveU.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveV.svg" title="driveV.svg" alt="driveV.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveW.svg" title="driveW.svg" alt="driveW.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveX.svg" title="driveX.svg" alt="driveX.svg" width="64"/> |
 
 | `U+F0A8` | `U+F0A9` |
 | :---: | :---: |
-| <img src="./icons/drives/letters/DriveY.svg" title="DriveY.svg" alt="DriveY.svg" width="64"/> | <img src="./icons/drives/letters/DriveZ.svg" title="DriveZ.svg" alt="DriveZ.svg" width="64"/> |
+| <img src="./icons/drives/logical/letters/driveY.svg" title="driveY.svg" alt="driveY.svg" width="64"/> | <img src="./icons/drives/logical/letters/driveZ.svg" title="driveZ.svg" alt="driveZ.svg" width="64"/> |
+
+### M.2 Drives (./icons/drives/m.2/)
+
+| `U+F200` | `U+F201` | `U+F202` | `U+F203` | `U+F204` | `U+F205` | `U+F206` | `U+F207` |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="./icons/drives/m.2/M.2_SSD.svg" title="M.2_SSD.svg" alt="M.2_SSD.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_SSDTemp.svg" title="M.2_SSDTemp.svg" alt="M.2_SSDTemp.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_SSDHotspot.svg" title="M.2_SSDHotspot.svg" alt="M.2_SSDHotspot.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_SSDAmps.svg" title="M.2_SSDAmps.svg" alt="M.2_SSDAmps.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_SSDVolts.svg" title="M.2_SSDVolts.svg" alt="M.2_SSDVolts.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_SSDPower.svg" title="M.2_SSDPower.svg" alt="M.2_SSDPower.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_SSDFan.svg" title="M.2_SSDFan.svg" alt="M.2_SSDFan.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_SSDWaterPump.svg" title="M.2_SSDWaterPump.svg" alt="M.2_SSDWaterPump.svg" width="64"/> |
+
+| `U+F208` | `U+F209` | `U+F20A` |
+| :---: | :---: | :---: |
+| <img src="./icons/drives/m.2/M.2_SSDLiquid.svg" title="M.2_SSDLiquid.svg" alt="M.2_SSDLiquid.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_SSDLiquidAlt.svg" title="M.2_SSDLiquidAlt.svg" alt="M.2_SSDLiquidAlt.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_SSDFlow.svg" title="M.2_SSDFlow.svg" alt="M.2_SSDFlow.svg" width="64"/> |
+
+### M.2 Small Drives (./icons/drives/m.2/)
+
+| `U+F210` | `U+F211` | `U+F212` | `U+F213` | `U+F214` | `U+F215` | `U+F216` | `U+F217` |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="./icons/drives/m.2/M.2_Small_SSD.svg" title="M.2_Small_SSD.svg" alt="M.2_Small_SSD.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_Small_SSDTemp.svg" title="M.2_Small_SSDTemp.svg" alt="M.2_Small_SSDTemp.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_Small_SSDHotspot.svg" title="M.2_Small_SSDHotspot.svg" alt="M.2_Small_SSDHotspot.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_Small_SSDAmps.svg" title="M.2_Small_SSDAmps.svg" alt="M.2_Small_SSDAmps.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_Small_SSDVolts.svg" title="M.2_Small_SSDVolts.svg" alt="M.2_Small_SSDVolts.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_Small_SSDPower.svg" title="M.2_Small_SSDPower.svg" alt="M.2_Small_SSDPower.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_Small_SSDFan.svg" title="M.2_Small_SSDFan.svg" alt="M.2_Small_SSDFan.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_Small_SSDWaterPump.svg" title="M.2_Small_SSDWaterPump.svg" alt="M.2_Small_SSDWaterPump.svg" width="64"/> |
+
+| `U+F218` | `U+F219` | `U+F21A` |
+| :---: | :---: | :---: |
+| <img src="./icons/drives/m.2/M.2_Small_SSDLiquid.svg" title="M.2_Small_SSDLiquid.svg" alt="M.2_Small_SSDLiquid.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_Small_SSDLiquidAlt.svg" title="M.2_Small_SSDLiquidAlt.svg" alt="M.2_Small_SSDLiquidAlt.svg" width="64"/> | <img src="./icons/drives/m.2/M.2_Small_SSDFlow.svg" title="M.2_Small_SSDFlow.svg" alt="M.2_Small_SSDFlow.svg" width="64"/> |
+
+### SATA Drives (./icons/drives/sata/)
+
+| `U+F220` | `U+F221` | `U+F222` | `U+F223` | `U+F224` | `U+F225` | `U+F226` | `U+F227` |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="./icons/drives/sata/SATAHDD.svg" title="SATAHDD.svg" alt="SATAHDD.svg" width="64"/> | <img src="./icons/drives/sata/SATASSD.svg" title="SATASSD.svg" alt="SATASSD.svg" width="64"/> | <img src="./icons/drives/sata/SATATemp.svg" title="SATATemp.svg" alt="SATATemp.svg" width="64"/> | <img src="./icons/drives/sata/SATAHotspot.svg" title="SATAHotspot.svg" alt="SATAHotspot.svg" width="64"/> | <img src="./icons/drives/sata/SATAAmps.svg" title="SATAAmps.svg" alt="SATAAmps.svg" width="64"/> | <img src="./icons/drives/sata/SATAVolts.svg" title="SATAVolts.svg" alt="SATAVolts.svg" width="64"/> | <img src="./icons/drives/sata/SATAPower.svg" title="SATAPower.svg" alt="SATAPower.svg" width="64"/> | <img src="./icons/drives/sata/SATAFan.svg" title="SATAFan.svg" alt="SATAFan.svg" width="64"/> |
+
+| `U+F228` | `U+F229` | `U+F22A` | `U+F22B` |
+| :---: | :---: | :---: | :---: |
+| <img src="./icons/drives/sata/SATAWaterPump.svg" title="SATAWaterPump.svg" alt="SATAWaterPump.svg" width="64"/> | <img src="./icons/drives/sata/SATALiquid.svg" title="SATALiquid.svg" alt="SATALiquid.svg" width="64"/> | <img src="./icons/drives/sata/SATALiquidAlt.svg" title="SATALiquidAlt.svg" alt="SATALiquidAlt.svg" width="64"/> | <img src="./icons/drives/sata/SATAFlow.svg" title="SATAFlow.svg" alt="SATAFlow.svg" width="64"/> |
 
 ### Recycling Bin (./icons/misc/)
 
