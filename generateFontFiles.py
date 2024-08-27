@@ -44,8 +44,8 @@ if __name__ == '__main__':
     addList(font, miscOffset, miscSVGs)
     addList(font, statsOffset, statsSVGs)
     addList(font, clocksOffset, clocksSVGs)
-    addList(font, drivesOffset, driveSVGs)
-    addList(font, driveLettersOffset, driveLettersSVGs)
+    addList(font, logicalDrivesOffset, logicalDriveSVGs)
+    addList(font, logicalDriveLettersOffset, logicalDriveLettersSVGs)
     addList(font, binOffset, binSVGs)
     addList(font, cpuCoreOffset, cpuCoreSVGs)
     
