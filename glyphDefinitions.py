@@ -42,7 +42,7 @@ cpuCoreCount = 32
 cpuCorePrefix = f'{cpuFolder}cores/CPU'
 
 logicalDrivesCount = 26
-logicalDrivesPrefix = f'{logicalDrivesFolder}letters/drive'
+logicalDrivesPrefix = f'{logicalDrivesFolder}letters/Drive'
 
 clockNumHours = 12
 clockHourDivisions = 4
